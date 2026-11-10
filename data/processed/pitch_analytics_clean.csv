@@ -1,0 +1,1275 @@
+pitch_id,company_name,industry,season,ask_amount_usd,ask_equity_pct,implied_ask_valuation_usd,deal_made,deal_amount_usd,deal_equity_pct,Mark_Cuban,Lori_Greiner,Kevin_OLeary,Daymond_John,Barbara_Corcoran,Robert_Herjavec
+1,AvaTheElephant,Health/Wellness,1,50000.0,50000.0,100.0,1,50000.0,55.0,0,0,0,0,1,0
+2,Mr.Tod'sPieFactory,Food and Beverage,1,460000.0,460000.0,100.0,1,460000.0,50.0,0,0,0,1,1,0
+3,Wispots,Business Services,1,1200000.0,1200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+4,CollegeFoxesPackingBoxes,Lifestyle/Home,1,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+5,IonicEar,Software/Tech,1,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+6,APerfectPear,Food and Beverage,1,500000.0,500000.0,100.0,1,500000.0,50.0,0,0,1,0,0,1
+7,ClassroomJams,Children/Education,1,250000.0,250000.0,100.0,1,250000.0,100.0,1,0,1,1,1,1
+8,Lifebelt,Automotive,1,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+9,CrookedJaw,Fashion/Beauty,1,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+10,StickyNoteHolder,Lifestyle/Home,1,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+11,TurboBaster,Food and Beverage,1,35000.0,35000.0,100.0,1,35000.0,100.0,0,0,0,0,0,0
+12,StressFreeKids,Children/Education,1,250000.0,250000.0,100.0,1,250000.0,50.0,0,0,0,0,1,0
+13,KwyztaChopstickArt,Children/Education,1,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+14,50StateCapitalsin50Minutes,Children/Education,1,155000.0,155000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+15,VoyageAirGuitar,Media/Entertainment,1,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+16,GiftCardRescue,Software/Tech,1,150000.0,150000.0,100.0,1,200000.0,50.0,0,0,1,0,0,1
+17,Coverplay,Children/Education,1,350000.0,350000.0,100.0,1,35000.0,40.0,0,0,0,0,1,0
+18,GraffitiRemovalServices,Business Services,1,350000.0,350000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+19,SoulsCalling,Fashion/Beauty,1,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+20,CoffeeBrandGifts,Food and Beverage,1,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+21,MyTherapyJournal,Health/Wellness,1,80000.0,80000.0,100.0,1,80000.0,51.0,0,0,1,0,0,1
+22,BodyJac,Fitness/Sports/Outdoors,1,180000.0,180000.0,100.0,1,180000.0,50.0,0,0,0,0,1,0
+23,GoodGriefCelebrations,Business Services,1,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+24,GranolaGourmet,Food and Beverage,1,175000.0,175000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+25,FaceBlok,Health/Wellness,1,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+26,PorkBarrelBBQSauce,Food and Beverage,1,50000.0,50000.0,100.0,1,50000.0,50.0,0,0,0,0,1,0
+27,ElementBars,Fitness/Sports/Outdoors,1,150000.0,150000.0,100.0,1,150000.0,30.0,0,0,0,0,0,0
+28,UndereaseUnderwear,Fashion/Beauty,1,55000.0,55000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+29,KalyxTechnologies,Fashion/Beauty,1,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+30,TheFizz,Food and Beverage,1,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+31,Soy-Yer-Dough,Food and Beverage,1,125000.0,125000.0,100.0,1,300000.0,51.0,0,0,1,1,0,1
+32,GrillCharmsSet,Fashion/Beauty,1,50000.0,50000.0,100.0,1,50000.0,20.0,0,0,0,0,0,1
+33,BoogieBoxFitness,Fitness/Sports/Outdoors,1,700000.0,700000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+34,TheFunhouseProject,Media/Entertainment,1,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+35,TreasureChestPets,Pet Products,1,150000.0,150000.0,100.0,1,100000.0,60.0,0,0,0,1,1,0
+36,Notehall,Software/Tech,1,90000.0,90000.0,100.0,1,90000.0,25.0,0,0,0,0,1,0
+37,Throx,Fashion/Beauty,1,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+38,WashedUpHollywood,Fashion/Beauty,1,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+39,GaylaBentleyFashion,Fashion/Beauty,1,250000.0,250000.0,100.0,1,250000.0,50.0,0,0,0,1,1,0
+40,ChillSoda,Food and Beverage,1,50000.0,50000.0,100.0,1,50000.0,20.0,0,0,0,0,1,0
+41,CornucopiaExpress,Pet Products,1,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+42,VirtuSphere,Electronics,1,1500000.0,1500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+43,TheUROClub,Fitness/Sports/Outdoors,1,25000.0,25000.0,100.0,1,25000.0,70.0,0,0,0,0,0,0
+44,JumpForward,Children/Education,1,150000.0,150000.0,100.0,1,600000.0,50.0,0,0,1,0,0,1
+45,TheBobblePlace,Children/Education,1,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+46,Mr.Poncho,Electronics,1,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+47,HellsBellsHelmets,Fitness/Sports/Outdoors,1,500000.0,500000.0,100.0,1,500000.0,50.0,0,0,0,1,0,0
+48,ChefInBlack,Food and Beverage,1,50000.0,50000.0,100.0,1,50000.0,40.0,0,0,0,0,1,0
+49,InkFlip,Electronics,1,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+50,RompN'Roll,Children/Education,1,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+51,TheTwister,Fitness/Sports/Outdoors,1,85000.0,85000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+52,GreaseMonkeyWipes,Lifestyle/Home,1,40000.0,40000.0,100.0,1,40000.0,40.0,0,0,0,0,1,1
+53,WeeCanShop,Children/Education,1,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+54,Podillow,Lifestyle/Home,1,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+55,TheFactionist,Fashion/Beauty,1,30000.0,30000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+56,Caffeindicator,Food and Beverage,1,200000.0,200000.0,100.0,1,200000.0,50.0,0,0,0,0,0,0
+57,LipstickRemix,Fashion/Beauty,1,105000.0,105000.0,100.0,1,105000.0,50.0,0,0,0,1,1,0
+58,LegalGrind,Business Services,1,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+59,CaptainIceCream,Food and Beverage,1,48000.0,48000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+60,Nubrella,Fashion/Beauty,1,200000.0,200000.0,100.0,1,200000.0,51.0,0,0,0,1,0,0
+61,Qubits,Children/Education,1,90000.0,90000.0,100.0,1,90000.0,51.0,0,0,0,1,0,0
+62,SendABall,Children/Education,1,86000.0,86000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+63,PillarsOfSlippers,Fashion/Beauty,1,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+64,LlamaBrew,Green/CleanTech,1,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+65,WurkinStiffs,Fashion/Beauty,2,85000.0,85000.0,100.0,1,100000.0,40.0,0,0,0,1,1,0
+66,TippiToes,Fitness/Sports/Outdoors,2,30000.0,30000.0,100.0,1,100000.0,30.0,1,0,0,0,1,0
+67,CBSFoods,Food and Beverage,2,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+68,CopadiVino,Food and Beverage,2,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+69,Toygaroo,Children/Education,2,100000.0,100000.0,100.0,1,200000.0,35.0,1,0,1,0,0,0
+70,FirstDefenseNasalScreen,Health/Wellness,2,500000.0,500000.0,100.0,1,750000.0,30.0,1,0,0,1,0,1
+71,Vurtego,Fitness/Sports/Outdoors,2,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+72,Waken'Bacon,Food and Beverage,2,40000.0,40000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+73,ModMomFurniture,Lifestyle/Home,2,90000.0,90000.0,100.0,1,90000.0,33.0,0,0,0,0,0,1
+74,Flipoutz,Fashion/Beauty,2,100000.0,100000.0,100.0,1,100000.0,25.0,0,0,0,1,0,0
+75,FitnessStride,Fitness/Sports/Outdoors,2,140000.0,140000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+76,PureAyre,Lifestyle/Home,2,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+77,BroccoliWad,Food and Beverage,2,50000.0,50000.0,100.0,1,50000.0,40.0,0,0,0,0,1,0
+78,HillbillyBrand,Fashion/Beauty,2,50000.0,50000.0,100.0,1,75000.0,25.0,0,0,0,1,0,1
+79,Ride-OnCarry-On,Travel,2,50000.0,50000.0,100.0,1,50000.0,25.0,0,0,0,0,1,0
+80,UncleZip'sBeefJerky,Food and Beverage,2,25000.0,25000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+81,Lightfilm,Automotive,2,100000.0,100000.0,100.0,1,10000.0,70.0,0,0,0,1,0,1
+82,FridgeFronts,Lifestyle/Home,2,100000.0,100000.0,100.0,1,100000.0,50.0,0,0,1,0,1,0
+83,NewEraBrands,Fashion/Beauty,2,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+84,ThinGloss,Fashion/Beauty,2,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+85,SweepEasy,Lifestyle/Home,2,40000.0,40000.0,100.0,1,75000.0,33.0,0,0,0,1,0,0
+86,DaisyCakes,Food and Beverage,2,50000.0,50000.0,100.0,1,50000.0,25.0,0,0,0,0,1,0
+87,HotMamaGowns,Fashion/Beauty,2,30000.0,30000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+88,CaddySwag,Fitness/Sports/Outdoors,2,60000.0,60000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+89,Hydromax,Fitness/Sports/Outdoors,2,50000.0,50000.0,100.0,1,50000.0,50.0,0,0,0,0,0,0
+90,CarsikBib,Children/Education,2,30000.0,30000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+91,Ecomowers,Green/CleanTech,2,90000.0,90000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+92,Games2U,Media/Entertainment,2,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+93,HyConn,Uncertain/Other,2,500000.0,500000.0,100.0,1,1250000.0,100.0,1,0,0,0,0,0
+94,Origaudio,Electronics,2,150000.0,150000.0,100.0,1,150000.0,15.0,0,0,0,0,0,1
+95,ManCandle,Lifestyle/Home,2,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+96,OriginalRunnerCompany,Lifestyle/Home,2,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+97,AldoOrtaJewelry,Fashion/Beauty,2,180000.0,180000.0,100.0,1,180000.0,45.0,0,0,0,0,1,0
+98,OneSole,Fashion/Beauty,2,500000.0,500000.0,100.0,1,500000.0,35.0,0,0,0,1,0,0
+99,CitiKitty,Pet Products,2,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,0,0,0,0
+100,SamsonMartin,Fashion/Beauty,2,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+101,EZVIP,Media/Entertainment,3,150000.0,150000.0,100.0,1,150000.0,30.0,1,0,0,1,0,0
+102,TheCleanBottle,Food and Beverage,3,60000.0,60000.0,100.0,1,60000.0,8.0,1,0,0,0,0,0
+103,MyWonderfulLife,Business Services,3,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+104,BusinessGhost,Business Services,3,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+105,IWantToDrawACatForYou,Software/Tech,3,10000.0,10000.0,100.0,1,25000.0,33.0,1,0,0,0,0,0
+106,Salespreneur,Business Services,3,90000.0,90000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+107,Invis-A-Rack,Automotive,3,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+108,VegasMagicShow,Media/Entertainment,3,1500000.0,1500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+109,YouSmellSoap,Fashion/Beauty,3,55000.0,55000.0,100.0,1,50000.0,50.0,0,0,0,0,0,1
+110,ChordBuddy,Media/Entertainment,3,125000.0,125000.0,100.0,1,175000.0,20.0,0,0,0,0,0,1
+111,LiquidMoney,Fashion/Beauty,3,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+112,TailLightz,Electronics,3,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+113,WineBalloon,Food and Beverage,3,40000.0,40000.0,100.0,1,400000.0,100.0,1,0,0,0,0,0
+114,ShowNo,Fashion/Beauty,3,50000.0,50000.0,100.0,1,75000.0,25.0,0,1,0,0,0,0
+115,TheSwilt,Fashion/Beauty,3,30000.0,30000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+116,PuppyCake,Pet Products,3,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+117,TheLastLid,Lifestyle/Home,3,40000.0,40000.0,100.0,1,40000.0,60.0,0,0,0,1,0,0
+118,TalbottTeas,Food and Beverage,3,250000.0,250000.0,100.0,1,250000.0,35.0,0,0,1,0,0,0
+119,M3GirlDesigns,Fashion/Beauty,3,300000.0,300000.0,100.0,1,300000.0,30.0,1,1,0,0,0,1
+120,LedgePillow,Lifestyle/Home,3,30000.0,30000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+121,ReaderestSpecsecure,Lifestyle/Home,3,150000.0,150000.0,100.0,1,150000.0,65.0,0,1,0,0,0,0
+122,ThePaintedPretzel,Food and Beverage,3,100000.0,100000.0,100.0,1,100000.0,25.0,1,0,0,0,0,0
+123,EssoWatches,Fashion/Beauty,3,35000.0,35000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+124,FiveMinuteFurniture,Lifestyle/Home,3,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+125,Kisstixx,Fashion/Beauty,3,200000.0,200000.0,100.0,1,200000.0,40.0,1,0,0,0,0,0
+126,TheSmartBaker,Food and Beverage,3,75000.0,75000.0,100.0,1,75000.0,40.0,0,0,0,0,1,0
+127,ScotteVest,Fashion/Beauty,3,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+128,TheHeatHelper,Lifestyle/Home,3,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+129,Litter,Fashion/Beauty,3,80000.0,80000.0,100.0,1,80000.0,51.0,1,0,0,1,0,0
+130,Nardo'sNatural,Fashion/Beauty,3,75000.0,75000.0,100.0,1,75000.0,50.0,0,0,0,0,1,0
+131,TheOriginalProfender,Fitness/Sports/Outdoors,3,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+132,Rent-A-Grandma,Lifestyle/Home,3,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+133,TowerPaddleBoards,Fitness/Sports/Outdoors,3,150000.0,150000.0,100.0,1,150000.0,30.0,1,0,0,0,0,0
+134,MisoMedia,Media/Entertainment,3,300000.0,300000.0,100.0,1,300000.0,8.0,1,0,0,0,0,0
+135,InstantLifts,Fashion/Beauty,3,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+136,Vinamor,Food and Beverage,3,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+137,GoGoGear,Fitness/Sports/Outdoors,3,300000.0,300000.0,100.0,1,300000.0,50.0,0,0,0,1,0,0
+138,TheAveVenice,Fashion/Beauty,3,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+139,Brewer'sCow,Food and Beverage,3,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+140,Bark'em'sToGo,Pet Products,3,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+141,ViewSport,Fitness/Sports/Outdoors,3,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+142,BlondiesCookies,Food and Beverage,3,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+143,CopadiVino,Food and Beverage,3,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+144,TheSullivanGenerator,Green/CleanTech,3,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+145,Lollacup,Children/Education,3,100000.0,100000.0,100.0,1,100000.0,40.0,1,0,0,0,0,1
+146,NailPak,Fashion/Beauty,3,50000.0,50000.0,100.0,1,50000.0,40.0,0,1,0,0,0,0
+147,DebbieBrooksHandbags,Fashion/Beauty,3,540000.0,540000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+148,TrimiTank,Fashion/Beauty,3,57000.0,57000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+149,VillyCustoms,Fitness/Sports/Outdoors,3,500000.0,500000.0,100.0,1,500000.0,42.0,1,0,0,0,1,0
+150,BootIllusions,Fashion/Beauty,3,100000.0,100000.0,100.0,1,500000.0,40.0,1,0,0,0,1,0
+151,AirBedz,Travel,3,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+152,Skyride,Fitness/Sports/Outdoors,3,3000000.0,3000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+153,DanceWithMe,Fitness/Sports/Outdoors,3,100000.0,100000.0,100.0,1,100000.0,50.0,1,0,0,1,0,0
+154,WildSquirrelNutButter,Food and Beverage,3,50000.0,50000.0,100.0,1,50000.0,40.0,0,0,0,0,1,0
+155,MixBikini,Fashion/Beauty,3,50000.0,50000.0,100.0,1,50000.0,25.0,0,0,0,0,1,0
+156,Cab20RockBand,Media/Entertainment,3,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+157,RemyxxReKixxSneakers,Fashion/Beauty,3,50000.0,50000.0,100.0,1,50000.0,80.0,0,0,0,1,0,0
+158,UniKeyTechnologies,Software/Tech,3,500000.0,500000.0,100.0,1,500000.0,40.0,1,0,1,0,0,0
+159,TheNitroForceTitan1000,Fitness/Sports/Outdoors,3,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+160,CougarLimited,Food and Beverage,3,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+161,BevBuckle,Liquor/Alcohol,4,50000.0,50000.0,100.0,1,50000.0,51.0,0,0,0,0,1,0
+162,BuggyBeds,Lifestyle/Home,4,125000.0,125000.0,100.0,1,250000.0,25.0,1,0,1,1,1,1
+163,CoatChex,Business Services,4,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+164,BodyWalking,Fashion/Beauty,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+165,SurfSetFitness,Fitness/Sports/Outdoors,4,150000.0,150000.0,100.0,1,300000.0,30.0,1,0,0,0,0,0
+166,CATEapp,Software/Tech,4,50000.0,50000.0,100.0,1,75000.0,30.0,0,0,1,1,0,0
+167,AlphaM,Business Services,4,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+168,eCreamery,Food and Beverage,4,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+169,RockBands,Fashion/Beauty,4,100000.0,100000.0,100.0,1,100000.0,40.0,1,0,0,1,0,0
+170,PostureNow,Health/Wellness,4,100000.0,100000.0,100.0,1,100000.0,30.0,1,0,0,0,0,0
+171,FuzziBunz,Children/Education,4,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+172,LizLovelyCookies,Food and Beverage,4,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+173,BagBowl,Lifestyle/Home,4,40000.0,40000.0,100.0,1,40000.0,33.0,0,1,0,0,0,0
+174,Back9Dips,Food and Beverage,4,150000.0,150000.0,100.0,1,150000.0,25.0,0,1,0,0,0,1
+175,LifterHamper,Lifestyle/Home,4,85000.0,85000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+176,Zomm,Lifestyle/Home,4,2000000.0,2000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+177,CozyBug,Fashion/Beauty,4,50000.0,50000.0,100.0,1,50000.0,30.0,0,0,0,1,0,0
+178,MarzSprays,Health/Wellness,4,200000.0,200000.0,100.0,1,200000.0,25.0,0,1,0,0,0,0
+179,WiredWaffles,Food and Beverage,4,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+180,TheSpatty,Food and Beverage,4,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+181,PRO-NRG,Food and Beverage,4,250000.0,250000.0,100.0,1,250000.0,30.0,0,0,0,1,0,0
+182,CousinsMaineLobster,Food and Beverage,4,55000.0,55000.0,100.0,1,55000.0,15.0,0,0,0,0,1,0
+183,FreakerUSA,Food and Beverage,4,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+184,EcoNutsSoap,Lifestyle/Home,4,175000.0,175000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+185,SBU,Fitness/Sports/Outdoors,4,300000.0,300000.0,100.0,1,300000.0,33.0,0,0,1,0,0,1
+186,ScrubDaddy,Lifestyle/Home,4,100000.0,100000.0,100.0,1,200000.0,20.0,0,1,0,0,0,0
+187,TheShemie,Fashion/Beauty,4,60000.0,60000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+188,TheBear&TheRat,Pet Products,4,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+189,TheCoolWazoo,Children/Education,4,65000.0,65000.0,100.0,1,65000.0,35.0,0,1,0,0,0,0
+190,PlateTopper,Food and Beverage,4,90000.0,90000.0,100.0,1,90000.0,8.0,0,1,0,0,0,0
+191,NoFlyCone,Pet Products,4,25000.0,25000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+192,DriveSuits,Uncertain/Other,4,150000.0,150000.0,100.0,1,150000.0,30.0,0,0,1,0,0,0
+193,IceChipsCandy,Food and Beverage,4,250000.0,250000.0,100.0,1,125000.0,20.0,1,0,0,0,1,0
+194,ReVestor,Software/Tech,4,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+195,PCClassesOnline,Software/Tech,4,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+196,RuckPack,Fashion/Beauty,4,75000.0,75000.0,100.0,1,150000.0,20.0,0,0,1,0,0,1
+197,NearlyNewlywed,Fashion/Beauty,4,35000.0,35000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+198,TieTry,Fashion/Beauty,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+199,CorksAway,Food and Beverage,4,105000.0,105000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+200,TheLivingChristmasCompany,Lifestyle/Home,4,150000.0,150000.0,100.0,1,150000.0,40.0,1,0,0,0,0,0
+201,TheCoop,Children/Education,4,150000.0,150000.0,100.0,1,150000.0,15.0,0,0,0,0,1,0
+202,PartiePoche,Fashion/Beauty,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+203,FatAssFudge,Food and Beverage,4,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+204,HotTot,Children/Education,4,50000.0,50000.0,100.0,1,75000.0,40.0,1,0,0,0,0,0
+205,TheGameFaceCompany,Fashion/Beauty,4,450000.0,450000.0,100.0,1,450000.0,35.0,1,1,0,0,0,0
+206,DuraTent,Food and Beverage,4,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+207,ARKEG,Lifestyle/Home,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+208,CoffeeJoulies,Food and Beverage,4,150000.0,150000.0,100.0,1,150000.0,0.0,0,1,1,1,0,1
+209,TeddyNeedsABath,Children/Education,4,50000.0,50000.0,100.0,1,100000.0,30.0,1,0,0,0,0,0
+210,Urbio,Lifestyle/Home,4,300000.0,300000.0,100.0,1,300000.0,15.0,0,1,0,0,0,0
+211,SubZeroIceCream,Food and Beverage,4,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+212,SoundBender,Electronics,4,54000.0,54000.0,100.0,1,54000.0,40.0,0,0,0,1,0,0
+213,Bibitec,Children/Education,4,40000.0,40000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+214,CuddleTunes,Children/Education,4,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+215,XeroShoes,Fitness/Sports/Outdoors,4,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+216,HoodiePillow,Lifestyle/Home,4,90000.0,90000.0,100.0,1,90000.0,20.0,0,0,0,0,0,1
+217,GetGrinds,Food and Beverage,4,75000.0,75000.0,100.0,1,75000.0,15.0,0,0,0,1,0,1
+218,GreenGarmento,Fashion/Beauty,4,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+219,MyColdSnap,Food and Beverage,4,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+220,SmartWheel,Automotive,4,100000.0,100000.0,100.0,1,100000.0,30.0,1,0,0,0,0,1
+221,HowDoYouRoll?,Food and Beverage,4,1000000.0,1000000.0,100.0,1,1000000.0,20.0,0,0,1,0,0,0
+222,GottaHaveS'More,Food and Beverage,4,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+223,PrettyPaddedRoom,Health/Wellness,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+224,Addison'sWonderland,Children/Education,4,90000.0,90000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+225,HipChixs,Fashion/Beauty,4,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+226,ProofEyeWear,Fashion/Beauty,4,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+227,MuddyWaterCamo,Fitness/Sports/Outdoors,4,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+228,JeskaShoeCompany,Fashion/Beauty,4,70000.0,70000.0,100.0,1,70000.0,70.0,0,0,0,1,0,0
+229,Nuts'nMore,Food and Beverage,4,250000.0,250000.0,100.0,1,250000.0,30.0,1,0,0,0,0,1
+230,NeoInnovations,Health/Wellness,4,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+231,PSIBands,Health/Wellness,4,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+232,CordaRoy's,Lifestyle/Home,4,200000.0,200000.0,100.0,1,200000.0,58.0,0,1,0,0,0,0
+233,Lose12Inches,Fitness/Sports/Outdoors,4,120000.0,120000.0,100.0,1,125000.0,25.0,0,0,0,1,0,0
+234,BabyLovesDisco,Children/Education,4,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+235,CellHelmet,Electronics,4,160000.0,160000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+236,CoolWraps,Lifestyle/Home,4,100000.0,100000.0,100.0,1,250000.0,100.0,1,0,0,0,0,0
+237,SimpleSugarScrubs,Fashion/Beauty,4,100000.0,100000.0,100.0,1,100000.0,33.0,1,0,0,0,0,0
+238,DropStop,Automotive,4,300000.0,300000.0,100.0,1,300000.0,20.0,0,1,0,0,0,0
+239,TraditionalFisheries,Food and Beverage,4,225000.0,225000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+240,GobieH20,Travel,4,300000.0,300000.0,100.0,1,300000.0,40.0,0,0,0,1,0,0
+241,LiddUp,Food and Beverage,4,100000.0,100000.0,100.0,1,100000.0,33.0,0,0,1,0,0,0
+242,Rootsuit,Fashion/Beauty,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+243,EchoValleyMeats,Food and Beverage,4,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+244,WickedGoodCupCakes,Food and Beverage,4,75000.0,75000.0,100.0,1,75000.0,0.0,0,0,1,0,0,0
+245,TheMissionBelt,Fashion/Beauty,4,50000.0,50000.0,100.0,1,50000.0,37.5,0,0,0,1,0,0
+246,ShellBobbers,Fitness/Sports/Outdoors,4,80000.0,80000.0,100.0,1,80000.0,33.0,1,0,0,0,0,0
+247,TremontElectric,Green/CleanTech,4,2000000.0,2000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+248,Mee-Ma'sGumbo,Food and Beverage,4,200000.0,200000.0,100.0,1,200000.0,50.0,0,1,1,0,0,0
+249,MistoBox,Food and Beverage,4,75000.0,75000.0,100.0,1,75000.0,30.0,1,0,0,0,0,0
+250,VermontButcherBlock,Lifestyle/Home,4,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+251,SquirrelBoss,Pet Products,4,130000.0,130000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+252,PinkShutterPhotoBooths,Media/Entertainment,4,300000.0,300000.0,100.0,1,300000.0,33.0,0,0,0,0,1,0
+253,KaZAM,Fitness/Sports/Outdoors,4,300000.0,300000.0,100.0,1,300000.0,32.0,1,0,0,0,1,0
+254,Baby'sBadassBurgers,Food and Beverage,4,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+255,TrackDays,Media/Entertainment,4,5000000.0,5000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+256,StellaValle,Fashion/Beauty,4,150000.0,150000.0,100.0,1,150000.0,35.0,1,1,0,0,0,0
+257,GeekChic,Fashion/Beauty,4,100000.0,100000.0,100.0,1,300000.0,25.0,0,0,0,0,0,1
+258,LugLess,Travel,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+259,JonesScones,Food and Beverage,4,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+260,Ryan'sBarkery,Pet Products,4,25000.0,25000.0,100.0,1,25000.0,25.0,0,0,0,0,1,0
+261,VerbalizeIt,Business Services,4,250000.0,250000.0,100.0,1,250000.0,20.0,0,0,1,0,0,0
+262,TomnChee,Food and Beverage,4,600000.0,600000.0,100.0,1,600000.0,15.0,1,0,0,0,1,0
+263,ThreeDayRule,Software/Tech,4,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+264,SweetBallz,Food and Beverage,5,250000.0,250000.0,100.0,1,250000.0,25.0,1,0,0,0,1,0
+265,PostcardOnTheRun,Software/Tech,5,300000.0,300000.0,100.0,1,300000.0,7.5,0,0,0,0,0,1
+266,Lynnae'sGourmetPickles,Food and Beverage,5,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+267,RoloDoc,Health/Wellness,5,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+268,Kane&Couture,Pet Products,5,150000.0,150000.0,100.0,1,150000.0,40.0,0,1,0,1,0,0
+269,Breathometer,Health/Wellness,5,250000.0,250000.0,100.0,1,1000000.0,30.0,1,1,1,1,0,1
+270,MangoMango,Food and Beverage,5,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+271,ManMedals,Uncertain/Other,5,10000.0,10000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+272,Freeloader,Travel,5,200000.0,200000.0,100.0,1,200000.0,33.0,0,0,0,0,0,1
+273,RapidRamenCooker,Food and Beverage,5,300000.0,300000.0,100.0,1,150000.0,15.0,1,0,0,0,0,0
+274,FairyTaleWishes,Children/Education,5,35000.0,35000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+275,KooknKap,Food and Beverage,5,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+276,ScreenMend,Lifestyle/Home,5,30000.0,30000.0,100.0,1,30000.0,50.0,0,1,0,0,0,0
+277,Hamboards,Fitness/Sports/Outdoors,5,100000.0,100000.0,100.0,1,300000.0,30.0,0,0,0,0,0,1
+278,SundayNightSlowJams,Lifestyle/Home,5,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+279,Scan,Software/Tech,5,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+280,VeggieMamaGardenPops,Food and Beverage,5,75000.0,75000.0,100.0,1,75000.0,20.0,1,0,0,0,1,0
+281,RuffleButts,Fashion/Beauty,5,600000.0,600000.0,100.0,1,600000.0,9.0,0,1,0,0,0,0
+282,BareEase,Lifestyle/Home,5,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+283,RentAGoat,Pet Products,5,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+284,TotalMerchantResources,Business Services,5,200000.0,200000.0,100.0,1,200000.0,50.0,0,0,1,0,0,0
+285,TenThirtyOneProductions,Media/Entertainment,5,2000000.0,2000000.0,100.0,1,2000000.0,20.0,1,0,0,0,0,0
+286,FiberFix,Lifestyle/Home,5,90000.0,90000.0,100.0,1,250000.0,12.0,0,1,0,0,0,0
+287,ElephantChat,Uncertain/Other,5,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+288,180Cup,Lifestyle/Home,5,300000.0,300000.0,100.0,1,300000.0,25.0,0,0,0,1,0,0
+289,Tree-T-Pee,Green/CleanTech,5,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,0,0,0
+290,BetterLife,Green/CleanTech,5,400000.0,400000.0,100.0,1,400000.0,17.0,0,1,0,0,0,0
+291,KymeraBodyBoard,Fitness/Sports/Outdoors,5,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+292,PaparazziProposals,Lifestyle/Home,5,250000.0,250000.0,100.0,1,250000.0,33.0,0,1,1,0,0,0
+293,SchulziesBreadPudding,Food and Beverage,5,160000.0,160000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+294,BellyBuds,Health/Wellness,5,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+295,PetPaint,Pet Products,5,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+296,SurpriseRide,Children/Education,5,110000.0,110000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+297,Slawsa,Food and Beverage,5,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+298,DoorBot,Lifestyle/Home,5,700000.0,700000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+299,MagicMoments,Software/Tech,5,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+300,Grace&Lace,Fashion/Beauty,5,175000.0,175000.0,100.0,1,87500.0,10.0,0,0,0,0,1,0
+301,Yubo,Children/Education,5,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,1,0,0,1
+302,PurseCase,Fashion/Beauty,5,55000.0,55000.0,100.0,1,55000.0,15.0,0,0,0,1,0,0
+303,Chocomize,Food and Beverage,5,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+304,Bubbaâ€™s-QBBQ,Food and Beverage,5,300000.0,300000.0,100.0,1,300000.0,30.0,0,0,0,1,0,0
+305,SpiritHoods,Fashion/Beauty,5,450000.0,450000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+306,FoHawx,Fitness/Sports/Outdoors,5,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+307,VirtuixOmni,Electronics,5,2000000.0,2000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+308,TipsyElves,Fashion/Beauty,5,100000.0,100000.0,100.0,1,100000.0,10.0,0,0,0,0,0,1
+309,OneLifeProducts,Lifestyle/Home,5,50000.0,50000.0,100.0,1,50000.0,35.0,0,0,0,1,0,0
+310,CashmereHair,Fashion/Beauty,5,45000.0,45000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+311,Lite-Netics,Lifestyle/Home,5,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+312,GrooveBook,Software/Tech,5,150000.0,150000.0,100.0,1,150000.0,80.0,1,0,1,0,0,0
+313,TheWallDoctoRX,Lifestyle/Home,5,150000.0,150000.0,100.0,1,150000.0,0.0,0,0,0,0,0,1
+314,BounceBootCamp,Children/Education,5,30000.0,30000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+315,EyeBloc,Software/Tech,5,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+316,LockerBones,Children/Education,5,175000.0,175000.0,100.0,1,175000.0,50.0,0,1,0,0,0,1
+317,InvisiPlug,Software/Tech,5,125000.0,125000.0,100.0,1,125000.0,10.0,0,1,0,0,0,0
+318,BalloonDistractions,Children/Education,5,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+319,AlaskaGlacialMudCo.,Fashion/Beauty,5,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+320,SwimZip,Children/Education,5,60000.0,60000.0,100.0,1,60000.0,20.0,0,1,0,0,0,0
+321,FreshlyPicked,Children/Education,5,150000.0,150000.0,100.0,1,150000.0,25.0,0,0,0,1,0,0
+322,FitDeck,Fitness/Sports/Outdoors,5,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+323,LifeCaps,Health/Wellness,5,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+324,TheCookieDoughCafe,Food and Beverage,5,50000.0,50000.0,100.0,1,100000.0,30.0,0,1,0,0,0,0
+325,Cycloramic,Software/Tech,5,90000.0,90000.0,100.0,1,500000.0,15.0,1,1,0,0,0,0
+326,Nexersys,Fitness/Sports/Outdoors,5,2000000.0,2000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+327,CowWowCerealMilk,Food and Beverage,5,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+328,SpyEscapeAndEvasion,Children/Education,5,100000.0,100000.0,100.0,1,150000.0,45.0,0,0,0,1,0,0
+329,SouthernCultureArtisanFoods,Food and Beverage,5,100000.0,100000.0,100.0,1,100000.0,38.0,0,0,0,0,1,0
+330,DDPYoga,Fitness/Sports/Outdoors,5,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+331,Moberi,Food and Beverage,5,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+332,Bambooee,Lifestyle/Home,5,200000.0,200000.0,100.0,1,200000.0,10.0,0,1,0,0,0,0
+333,Buzzy4Shots,Health/Wellness,5,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+334,ZipIt,Lifestyle/Home,5,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+335,Cheek'd,Software/Tech,5,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+336,U-Lace,Fashion/Beauty,5,200000.0,200000.0,100.0,1,200000.0,35.0,1,0,0,0,0,0
+337,RevoLights,Fitness/Sports/Outdoors,5,150000.0,150000.0,100.0,1,300000.0,10.0,0,0,0,0,0,1
+338,SqueekyKnees,Children/Education,5,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+339,TheBufferBit,Fashion/Beauty,5,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+340,Henry'sHumdingers,Food and Beverage,5,150000.0,150000.0,100.0,1,300000.0,75.0,1,0,0,0,0,1
+341,BooBooGoo,Health/Wellness,5,100000.0,100000.0,100.0,1,100000.0,25.0,0,0,1,0,0,0
+342,iReTron,Software/Tech,5,100000.0,100000.0,100.0,1,100000.0,20.0,1,0,0,0,1,0
+343,DefineBottle,Food and Beverage,5,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+344,PackbackBooks,Children/Education,5,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+345,Chapul,Food and Beverage,5,50000.0,50000.0,100.0,1,50000.0,15.0,1,0,0,0,0,0
+346,GarageDoorLock,Lifestyle/Home,5,275000.0,275000.0,100.0,1,275000.0,35.0,0,0,0,1,0,0
+347,MorningHead,Lifestyle/Home,5,25000.0,25000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+348,Plated,Food and Beverage,5,500000.0,500000.0,100.0,1,500000.0,5.6,1,0,0,0,0,0
+349,MonkeyMat,Lifestyle/Home,5,100000.0,100000.0,100.0,1,100000.0,35.0,1,1,0,0,0,0
+350,ThePaintBrushCover,Lifestyle/Home,5,50000.0,50000.0,100.0,1,100000.0,20.0,0,1,0,0,0,0
+351,KodiakCakes,Food and Beverage,5,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+352,VelocitySigns,Business Services,5,225000.0,225000.0,100.0,1,225000.0,30.0,1,0,1,0,0,1
+353,HappyFeet,Fashion/Beauty,5,375000.0,375000.0,100.0,1,375000.0,25.0,0,0,0,0,0,1
+354,HoldYourHaunches,Fashion/Beauty,5,75000.0,75000.0,100.0,1,100000.0,40.0,0,1,0,0,1,0
+355,LordNutLevington,Food and Beverage,5,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+356,FunTimeExpress,Children/Education,5,125000.0,125000.0,100.0,1,125000.0,20.0,0,1,1,0,0,0
+357,PowerPot,Food and Beverage,5,250000.0,250000.0,100.0,1,250000.0,12.0,1,0,0,0,0,0
+358,QuickstopFireSprinklerTools,Lifestyle/Home,5,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+359,TaylorRobinsonMusic,Software/Tech,5,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+360,ZooBean,Children/Education,5,250000.0,250000.0,100.0,1,250000.0,30.0,1,0,0,0,0,0
+361,iLumi,Electronics,5,350000.0,350000.0,100.0,1,350000.0,25.0,1,0,0,0,0,0
+362,FortMagic,Children/Education,5,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+363,Intelli-StopperTechnology,Food and Beverage,5,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+364,RuggedManiac,Fitness/Sports/Outdoors,5,1000000.0,1000000.0,100.0,1,1750000.0,25.0,1,0,0,0,0,0
+365,CerebralSuccess,Health/Wellness,5,75000.0,75000.0,100.0,1,75000.0,40.0,0,0,0,0,1,0
+366,Mo'sBows,Fashion/Beauty,5,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+367,Crio,Food and Beverage,5,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+368,Angellift,Fashion/Beauty,5,500000.0,500000.0,100.0,1,500000.0,15.0,0,1,0,0,0,0
+369,HangEase,Lifestyle/Home,5,80000.0,80000.0,100.0,1,80000.0,30.0,1,1,0,0,0,0
+370,TheBouqsCompany,Lifestyle/Home,5,258000.0,258000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+371,SustyParty,Lifestyle/Home,5,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+372,OruKayak,Fitness/Sports/Outdoors,5,500000.0,500000.0,100.0,1,500000.0,25.0,0,0,0,0,0,1
+373,BonAffair,Food and Beverage,5,150000.0,150000.0,100.0,1,150000.0,35.0,1,0,0,0,0,0
+374,Cinnaholic,Food and Beverage,5,200000.0,200000.0,100.0,1,200000.0,40.0,0,0,0,0,0,1
+375,HargittMarineServices,Fitness/Sports/Outdoors,5,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+376,FootFairy,Software/Tech,5,75000.0,75000.0,100.0,1,100000.0,40.0,1,0,0,0,0,0
+377,BZbox,Lifestyle/Home,5,50000.0,50000.0,100.0,1,50000.0,40.0,0,1,0,0,0,0
+378,Tie-Not,Children/Education,5,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+379,Baker'sEdge,Food and Beverage,5,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+380,SleepingBaby,Children/Education,6,200000.0,200000.0,100.0,1,200000.0,20.0,0,0,0,1,0,0
+381,Bombas,Fashion/Beauty,6,200000.0,200000.0,100.0,1,200000.0,17.5,0,0,0,1,0,0
+382,Hammer&Nails,Fashion/Beauty,6,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+383,Amber,Electronics,6,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+384,Kronos,Fitness/Sports/Outdoors,6,150000.0,150000.0,100.0,1,150000.0,30.0,0,0,0,0,0,1
+385,Roominate,Children/Education,6,500000.0,500000.0,100.0,1,500000.0,5.0,1,1,0,0,0,0
+386,TheFloatingMugCo.,Lifestyle/Home,6,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+387,WeddingWagon,Lifestyle/Home,6,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+388,HeartPup,Pet Products,6,25000.0,25000.0,100.0,1,50000.0,40.0,0,0,0,1,0,0
+389,SoapSox,Children/Education,6,260000.0,260000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+390,NinjaCards,Children/Education,6,60000.0,60000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+391,DrumPants,Fashion/Beauty,6,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+392,PaperBoxPilots,Children/Education,6,35000.0,35000.0,100.0,1,35000.0,50.0,0,0,0,0,0,1
+393,Reviver,Lifestyle/Home,6,150000.0,150000.0,100.0,1,150000.0,15.0,0,1,0,0,0,0
+394,FunCakesRental,Food and Beverage,6,285000.0,285000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+395,TableJacks,Lifestyle/Home,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+396,TheRedDressBoutique,Fashion/Beauty,6,600000.0,600000.0,100.0,1,1200000.0,20.0,1,0,0,0,0,1
+397,SunStaches,Fashion/Beauty,6,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,0,1,0,0
+398,JungleJumpaRoo,Children/Education,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+399,TheCaddyGirls,Fitness/Sports/Outdoors,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+400,Honeyfund,Software/Tech,6,400000.0,400000.0,100.0,1,400000.0,0.0,0,0,1,0,0,0
+401,BeatBoxBeverages,Food and Beverage,6,200000.0,200000.0,100.0,1,1000000.0,33.0,1,0,0,0,0,0
+402,OilerieUSA,Food and Beverage,6,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+403,EmergenSee,Software/Tech,6,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+404,MyselfBelts,Children/Education,6,60000.0,60000.0,100.0,1,75000.0,25.0,0,0,0,1,0,0
+405,Titin,Fitness/Sports/Outdoors,6,500000.0,500000.0,100.0,1,500000.0,20.0,0,0,0,1,0,0
+406,SingTrix,Children/Education,6,1500000.0,1500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+407,Beardbrand,Fashion/Beauty,6,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+408,TheNaturalGrip,Fitness/Sports/Outdoors,6,100000.0,100000.0,100.0,1,125000.0,25.0,0,0,0,0,0,1
+409,BottleBreacher,Food and Beverage,6,150000.0,150000.0,100.0,1,150000.0,20.0,1,0,1,0,0,0
+410,Man-Pack,Fashion/Beauty,6,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+411,PriorityOneCanine,Pet Products,6,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+412,HeidiHo,Food and Beverage,6,125000.0,125000.0,100.0,1,125000.0,30.0,0,1,0,0,0,0
+413,SquattyPotty,Lifestyle/Home,6,350000.0,350000.0,100.0,1,350000.0,10.0,0,1,0,0,0,0
+414,Pipsnacks,Food and Beverage,6,200000.0,200000.0,100.0,1,200000.0,10.0,0,0,0,0,1,0
+415,StormStoppers,Lifestyle/Home,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+416,MagicCook,Food and Beverage,6,100000.0,100000.0,100.0,1,100000.0,33.0,0,0,0,1,0,0
+417,EarthLog,Lifestyle/Home,6,160000.0,160000.0,100.0,1,160000.0,30.0,0,1,0,0,0,0
+418,KitchenSafe,Food and Beverage,6,100000.0,100000.0,100.0,1,100000.0,20.0,0,1,0,0,0,0
+419,OffTheCob,Food and Beverage,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+420,Biaggi,Lifestyle/Home,6,500000.0,500000.0,100.0,1,500000.0,33.0,0,1,0,0,0,0
+421,GamedayCouture,Fashion/Beauty,6,500000.0,500000.0,100.0,1,500000.0,30.0,1,0,0,0,0,0
+422,Zipz,Food and Beverage,6,2500000.0,2500000.0,100.0,1,2500000.0,10.0,0,0,1,0,0,0
+423,SoapsWashesAndGroomingEssentials,Fashion/Beauty,6,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+424,HoppyPaws,Lifestyle/Home,6,50000.0,50000.0,100.0,1,100000.0,49.0,0,0,0,0,1,0
+425,Q-Flex,Health/Wellness,6,20000.0,20000.0,100.0,1,25000.0,25.0,1,0,0,0,1,0
+426,TheMenschOnABench,Lifestyle/Home,6,150000.0,150000.0,100.0,1,150000.0,15.0,0,1,0,0,0,1
+427,EveDrop,Lifestyle/Home,6,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+428,BantamBagels,Food and Beverage,6,275000.0,275000.0,100.0,1,275000.0,25.0,0,1,0,0,0,0
+429,Doorman,Lifestyle/Home,6,250000.0,250000.0,100.0,1,250000.0,12.0,0,0,0,0,0,1
+430,SkinnyShirt,Fashion/Beauty,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+431,CoffeeMeetsBagel,Software/Tech,6,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+432,Evrewares,Fashion/Beauty,6,100000.0,100000.0,100.0,1,200000.0,100.0,1,0,0,0,0,0
+433,BottleBright,Lifestyle/Home,6,75000.0,75000.0,100.0,1,75000.0,33.0,0,1,0,0,0,0
+434,Scratch&GrainBakingCo,Food and Beverage,6,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,0,1,0
+435,Vestpakz,Children/Education,6,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+436,TurboPUP,Pet Products,6,100000.0,100000.0,100.0,1,100000.0,35.0,0,0,0,1,0,0
+437,Lumio,Lifestyle/Home,6,250000.0,250000.0,100.0,1,350000.0,10.0,0,0,0,0,0,1
+438,BelloVerde,Fashion/Beauty,6,360000.0,360000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+439,Napwell,Lifestyle/Home,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+440,GreenBox,Food and Beverage,6,300000.0,300000.0,100.0,1,300000.0,10.0,0,0,1,0,0,0
+441,Phonesoap,Software/Tech,6,300000.0,300000.0,100.0,1,300000.0,10.0,0,1,0,0,0,0
+442,Victoria'sKitchen,Food and Beverage,6,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+443,TycoonRealEstate,Software/Tech,6,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+444,FreshPatch,Pet Products,6,150000.0,150000.0,100.0,1,150000.0,20.0,1,0,0,0,1,0
+445,DrainStrain,Lifestyle/Home,6,110000.0,110000.0,100.0,1,110000.0,10.0,0,0,0,0,0,1
+446,BalmChickyBalmBalm,Fashion/Beauty,6,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+447,BedJet,Lifestyle/Home,6,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+448,BeverageBoy,Food and Beverage,6,50000.0,50000.0,100.0,1,50000.0,35.0,0,0,0,1,0,0
+449,FunBites,Children/Education,6,75000.0,75000.0,100.0,1,75000.0,25.0,0,1,0,0,0,0
+450,TheLipBar,Fashion/Beauty,6,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+451,HimalayanDogChew,Pet Products,6,750000.0,750000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+452,Boobypack,Fashion/Beauty,6,80000.0,80000.0,100.0,1,80000.0,25.0,0,0,0,0,1,0
+453,GoldRushNuggetBucket,Children/Education,6,60000.0,60000.0,100.0,1,60000.0,25.0,0,0,0,0,0,1
+454,SsekoDesigns,Fashion/Beauty,6,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+455,Lumi,Fashion/Beauty,6,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+456,LuminAid,Travel,6,200000.0,200000.0,100.0,1,300000.0,15.0,1,0,0,0,0,0
+457,Scholly,Children/Education,6,40000.0,40000.0,100.0,1,40000.0,15.0,0,1,0,1,0,0
+458,KeenHome,Lifestyle/Home,6,750000.0,750000.0,100.0,1,750000.0,13.0,0,0,0,0,0,1
+459,TaalumaTotes,Fashion/Beauty,6,110000.0,110000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+460,CocoJack,Food and Beverage,6,125000.0,125000.0,100.0,1,125000.0,25.0,1,0,0,0,0,0
+461,BedRyder,Automotive,6,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+462,FrillClothing,Fashion/Beauty,6,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,1,0,1,0
+463,TwinZPillow,Children/Education,6,75000.0,75000.0,100.0,1,75000.0,20.0,0,1,0,0,0,0
+464,EchoValleyMeats,Food and Beverage,6,150000.0,150000.0,100.0,1,150000.0,25.0,1,0,0,0,0,0
+465,EmazingLights,Media/Entertainment,6,650000.0,650000.0,100.0,1,650000.0,5.0,1,0,0,1,0,0
+466,AquaVault,Lifestyle/Home,6,75000.0,75000.0,100.0,1,75000.0,25.0,0,0,0,1,0,0
+467,Naja,Fashion/Beauty,6,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+468,BeeSweetLemonade,Food and Beverage,6,60000.0,60000.0,100.0,1,60000.0,25.0,0,0,0,1,0,0
+469,BrandYourself,Software/Tech,6,2000000.0,2000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+470,iCPooch,Pet Products,6,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+471,TheHomeT,Fashion/Beauty,6,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+472,Budsies,Children/Education,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+473,BeeThinking,Lifestyle/Home,6,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+474,PullyPalz,Children/Education,6,100000.0,100000.0,100.0,1,100000.0,28.0,0,1,0,0,0,0
+475,Forus,Fitness/Sports/Outdoors,6,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+476,NeatCheeks,Children/Education,6,150000.0,150000.0,100.0,1,150000.0,25.0,0,0,0,0,1,0
+477,MelniConnectors,Electronics,6,500000.0,500000.0,100.0,1,500000.0,12.0,1,0,0,0,0,0
+478,BeneathTheInk,Software/Tech,6,350000.0,350000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+479,PittMoss,Green/CleanTech,6,600000.0,600000.0,100.0,1,600000.0,35.0,1,0,1,0,0,1
+480,ZinePak,Media/Entertainment,6,725000.0,725000.0,100.0,1,725000.0,17.5,0,1,0,0,0,1
+481,SnagaStool,Software/Tech,6,120000.0,120000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+482,BuckMason,Fashion/Beauty,6,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+483,Noene,Fashion/Beauty,6,100000.0,100000.0,100.0,1,200000.0,30.0,1,0,0,1,0,0
+484,AirCar,Travel,6,5000000.0,5000000.0,100.0,1,5000000.0,50.0,0,0,0,0,0,1
+485,PaleoDietFoods,Food and Beverage,6,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+486,WorldRecordStriperCompany,Fitness/Sports/Outdoors,6,75000.0,75000.0,100.0,1,50000.0,33.0,1,0,0,0,0,0
+487,Frameri,Fashion/Beauty,6,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+488,ZoomInteriors,Lifestyle/Home,6,100000.0,100000.0,100.0,1,100000.0,33.0,0,0,0,0,1,0
+489,SunscreenMist,Lifestyle/Home,6,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+490,SynDaverLabs,Health/Wellness,6,3000000.0,3000000.0,100.0,1,3000000.0,25.0,0,0,0,0,0,1
+491,YouKickAss,Children/Education,6,100000.0,100000.0,100.0,1,100000.0,10.0,1,0,0,0,0,0
+492,SharkWheel,Fitness/Sports/Outdoors,6,100000.0,100000.0,100.0,1,225000.0,7.5,1,0,0,0,0,1
+493,GatoCafe,Pet Products,6,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+494,SwayMotorsports,Green/CleanTech,6,300000.0,300000.0,100.0,1,300000.0,20.0,1,0,0,0,0,0
+495,Spikeball,Fitness/Sports/Outdoors,6,500000.0,500000.0,100.0,1,500000.0,20.0,0,0,0,1,0,0
+496,TheBeebo,Children/Education,7,200000.0,200000.0,100.0,1,200000.0,30.0,0,0,0,0,1,0
+497,Acton,Fitness/Sports/Outdoors,7,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+498,McClaryBrothersDrinkingVinegars,Food and Beverage,7,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+499,SignalVault,Software/Tech,7,200000.0,200000.0,100.0,1,200000.0,25.0,0,1,0,0,0,1
+500,O'DangHummus,Food and Beverage,7,50000.0,50000.0,100.0,1,50000.0,20.0,0,1,0,0,0,1
+501,Splikity,Software/Tech,7,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+502,MikkiBey,Fashion/Beauty,7,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+503,Loliware,Food and Beverage,7,150000.0,150000.0,100.0,1,600000.0,25.0,1,0,0,0,1,0
+504,FootCardigan,Fashion/Beauty,7,250000.0,250000.0,100.0,1,250000.0,20.0,1,0,0,0,0,0
+505,ValPark,Software/Tech,7,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+506,TheTwoGuysBowtieCompany,Fashion/Beauty,7,150000.0,150000.0,100.0,1,150000.0,17.5,0,0,0,1,0,0
+507,Nerdwax,Fashion/Beauty,7,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+508,Table87,Food and Beverage,7,200000.0,200000.0,100.0,1,250000.0,20.0,0,1,0,0,0,0
+509,EZPeeZ,Children/Education,7,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+510,Milk+Brookies,Food and Beverage,7,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+511,DudeWipes,Lifestyle/Home,7,300000.0,300000.0,100.0,1,300000.0,25.0,1,0,0,0,0,0
+512,ThreeJerksJerky,Food and Beverage,7,100000.0,100000.0,100.0,1,100000.0,15.0,0,0,0,1,0,0
+513,TheSkinnyMirror,Fashion/Beauty,7,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+514,SwitchWitch,Children/Education,7,55000.0,55000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+515,XCraft,Software/Tech,7,500000.0,500000.0,100.0,1,1500000.0,25.0,1,1,1,1,0,1
+516,RentLikeAChampion,Software/Tech,7,200000.0,200000.0,100.0,1,200000.0,10.0,1,0,0,0,0,0
+517,Hotshot,Food and Beverage,7,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+518,Windcatcher,Lifestyle/Home,7,200000.0,200000.0,100.0,1,200000.0,5.0,0,1,0,0,0,0
+519,StemCenterUSA,Children/Education,7,150000.0,150000.0,100.0,1,200000.0,20.0,0,1,0,0,0,0
+520,WinkFrozenDesserts,Food and Beverage,7,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+521,SavvyNaturals,Lifestyle/Home,7,200000.0,200000.0,100.0,1,200000.0,40.0,0,0,0,0,1,0
+522,CleanCube,Lifestyle/Home,7,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+523,SimplyFitBoard,Fitness/Sports/Outdoors,7,125000.0,125000.0,100.0,1,125000.0,20.0,0,1,1,0,0,0
+524,AFreshSheet,Lifestyle/Home,7,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+525,Unshrinkit,Lifestyle/Home,7,150000.0,150000.0,100.0,1,150000.0,15.0,1,0,0,0,0,0
+526,GripClean,Fitness/Sports/Outdoors,7,85000.0,85000.0,100.0,1,85000.0,35.0,0,1,0,0,0,0
+527,PolarPro,Software/Tech,7,500000.0,500000.0,100.0,1,1000000.0,20.0,1,0,0,0,0,1
+528,AdvancedSportsTechnology,Fitness/Sports/Outdoors,7,160000.0,160000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+529,BraziBites,Food and Beverage,7,200000.0,200000.0,100.0,1,200000.0,16.5,0,1,0,0,0,0
+530,Umano,Fashion/Beauty,7,150000.0,150000.0,100.0,1,150000.0,20.0,1,1,0,0,0,0
+531,SockTabs,Lifestyle/Home,7,50000.0,50000.0,100.0,1,50000.0,30.0,0,0,0,1,0,0
+532,LeauxRacingTrikes,Fitness/Sports/Outdoors,7,120000.0,120000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+533,GlowRecipe,Fashion/Beauty,7,425000.0,425000.0,100.0,1,425000.0,25.0,0,0,0,0,0,1
+534,SarahOliverHandbags,Fashion/Beauty,7,250000.0,250000.0,100.0,1,250000.0,30.0,0,1,1,0,0,1
+535,Trunkster,Lifestyle/Home,7,1400000.0,1400000.0,100.0,1,1400000.0,5.0,1,1,0,0,0,0
+536,GeekMyTree,Lifestyle/Home,7,225000.0,225000.0,100.0,1,225000.0,50.0,0,0,1,0,0,0
+537,BeardHead,Fashion/Beauty,7,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+538,Lovepop,Lifestyle/Home,7,300000.0,300000.0,100.0,1,300000.0,15.0,0,0,1,0,0,0
+539,PiperWai,Fashion/Beauty,7,50000.0,50000.0,100.0,1,50000.0,25.0,0,0,0,0,1,0
+540,AbsProteinPancakes,Food and Beverage,7,120000.0,120000.0,100.0,1,120000.0,42.0,0,0,0,1,0,0
+541,ExtremeSandbox,Children/Education,7,150000.0,150000.0,100.0,1,150000.0,20.0,1,0,1,0,0,0
+542,TotalTieKeep,Fashion/Beauty,7,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+543,FireAvert,Lifestyle/Home,7,300000.0,300000.0,100.0,1,300000.0,10.0,0,1,0,0,0,0
+544,Spretz,Lifestyle/Home,7,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+545,HungryHarvest,Food and Beverage,7,50000.0,50000.0,100.0,1,100000.0,10.0,0,0,0,0,0,1
+546,ControlledChaos,Fashion/Beauty,7,50000.0,50000.0,100.0,1,60000.0,50.0,0,0,0,0,1,0
+547,EZPZ,Food and Beverage,7,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+548,Fixed,Software/Tech,7,700000.0,700000.0,100.0,1,700000.0,7.0,1,0,0,0,0,0
+549,HatchBaby,Children/Education,7,250000.0,250000.0,100.0,1,250000.0,3.3,0,0,0,0,0,0
+550,VillageScholarships,Children/Education,7,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+551,BeardKing,Fashion/Beauty,7,100000.0,100000.0,100.0,1,100000.0,45.0,0,1,0,0,0,0
+552,Shefit,Fitness/Sports/Outdoors,7,250000.0,250000.0,100.0,1,250000.0,33.3,0,0,0,1,0,0
+553,Co.alition,Software/Tech,7,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+554,icybreeze,Travel,7,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+555,2400Expert,Children/Education,7,250000.0,250000.0,100.0,1,250000.0,20.0,1,0,0,0,0,0
+556,R.Riveter,Fashion/Beauty,7,100000.0,100000.0,100.0,1,100000.0,20.0,1,0,0,0,0,0
+557,Beartek,Media/Entertainment,7,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+558,MajorMom,Lifestyle/Home,7,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+559,CombatFlipFlops,Fashion/Beauty,7,150000.0,150000.0,100.0,1,300000.0,30.0,1,1,0,1,0,0
+560,SmartPlate,Health/Wellness,7,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+561,BeeFreeHonee,Food and Beverage,7,100000.0,100000.0,100.0,1,210000.0,30.0,1,0,0,0,1,0
+562,FloatBaby,Children/Education,7,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+563,MTAILOR,Fashion/Beauty,7,2500000.0,2500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+564,Sworkit,Fitness/Sports/Outdoors,7,1500000.0,1500000.0,100.0,1,1500000.0,10.0,1,0,0,0,0,0
+565,CleanSleep,Lifestyle/Home,7,1500000.0,1500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+566,TUTUblue,Fashion/Beauty,7,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+567,Nohbo,Green/CleanTech,7,100000.0,100000.0,100.0,1,100000.0,25.0,1,0,0,0,0,0
+568,Insta-Fire,Lifestyle/Home,7,300000.0,300000.0,100.0,1,300000.0,30.0,1,1,0,0,0,0
+569,CustardStandFoodProducts,Food and Beverage,7,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+570,PRx,Fitness/Sports/Outdoors,7,80000.0,80000.0,100.0,1,80000.0,20.0,0,0,1,0,0,0
+571,RagsToRaches,Fashion/Beauty,7,200000.0,200000.0,100.0,1,200000.0,15.0,0,0,0,0,0,1
+572,BetterBack,Health/Wellness,7,750000.0,750000.0,100.0,1,750000.0,8.0,0,1,0,0,0,0
+573,GlaceCryotherapy,Health/Wellness,7,100000.0,100000.0,100.0,1,100000.0,30.0,0,0,0,0,1,0
+574,Linka,Fitness/Sports/Outdoors,7,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+575,Teaspresso,Food and Beverage,7,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+576,MobCraftBeer,Liquor/Alcohol,7,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+577,BelovedShirts,Fashion/Beauty,7,175000.0,175000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+578,IlumiBowl,Lifestyle/Home,7,100000.0,100000.0,100.0,1,100000.0,25.0,0,0,1,0,0,0
+579,InnovationPet,Pet Products,7,250000.0,250000.0,100.0,1,250000.0,12.5,0,0,1,0,0,0
+580,BeerBlizzard,Liquor/Alcohol,7,100000.0,100000.0,100.0,1,100000.0,25.0,1,0,0,0,0,0
+581,Vengo,Food and Beverage,7,2000000.0,2000000.0,100.0,1,2000000.0,10.0,0,1,1,0,0,0
+582,TheGoodPromise,Food and Beverage,7,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+583,Wondercide,Pet Products,7,500000.0,500000.0,100.0,1,500000.0,3.0,0,1,0,0,0,0
+584,PrideBites,Pet Products,7,200000.0,200000.0,100.0,1,200000.0,20.0,0,1,0,0,0,1
+585,Trobo,Children/Education,7,100000.0,100000.0,100.0,1,166666.0,33.3,0,0,0,0,0,1
+586,NoPhone,Uncertain/Other,7,25000.0,25000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+587,Coolbox,Lifestyle/Home,7,500000.0,500000.0,100.0,1,500000.0,15.0,0,1,0,0,0,0
+588,Petnostics,Pet Products,7,300000.0,300000.0,100.0,1,300000.0,20.0,0,1,1,0,0,0
+589,Frends,Fashion/Beauty,7,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+590,popSLATE,Software/Tech,7,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+591,SlydeHandboards,Fitness/Sports/Outdoors,7,200000.0,200000.0,100.0,1,200000.0,22.0,1,0,0,0,0,0
+592,TheDripDrop,Food and Beverage,7,50000.0,50000.0,100.0,1,50000.0,33.3,0,0,0,0,1,0
+593,Jarrett&RajaProductions,Media/Entertainment,7,750000.0,750000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+594,KidRunner,Fitness/Sports/Outdoors,7,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+595,InchBug,Children/Education,7,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+596,FashionTap,Fashion/Beauty,7,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+597,brellabox,Uncertain/Other,7,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+598,MyFruityFaces,Food and Beverage,7,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+599,Brightwheel,Children/Education,7,400000.0,400000.0,100.0,1,600000.0,6.7,1,0,0,0,0,0
+600,DollopGourmet,Food and Beverage,7,75000.0,75000.0,100.0,1,75000.0,25.0,0,0,0,0,1,0
+601,Creaproducts,Fashion/Beauty,7,200000.0,200000.0,100.0,1,200000.0,22.5,0,0,0,0,1,0
+602,YourselfExpression,Fashion/Beauty,7,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+603,TheSpooner,Fitness/Sports/Outdoors,7,400000.0,400000.0,100.0,1,400000.0,16.0,1,0,0,0,1,0
+604,CampNoCounselors,Fitness/Sports/Outdoors,7,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+605,EVPExtremeVehicleProtection,Automotive,7,50000.0,50000.0,100.0,1,50000.0,33.3,0,0,0,1,0,0
+606,GladiatorLacrosse,Fitness/Sports/Outdoors,7,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+607,VPCABS,Media/Entertainment,7,200000.0,200000.0,100.0,1,200000.0,25.0,0,0,0,1,0,0
+608,PeteAndPedro,Fashion/Beauty,7,100000.0,100000.0,100.0,1,100000.0,10.0,0,0,0,0,1,0
+609,PMSBites,Food and Beverage,7,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+610,Felt,Lifestyle/Home,7,200000.0,200000.0,100.0,1,225000.0,10.0,0,0,1,0,0,0
+611,Pavlok,Liquor/Alcohol,7,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+612,Fizzics,Liquor/Alcohol,8,500000.0,500000.0,100.0,1,2000000.0,16.7,1,1,0,0,0,0
+613,SpoonfulofComfort,Food and Beverage,8,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+614,iSlide,Fashion/Beauty,8,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+615,Rethink,Software/Tech,8,100000.0,100000.0,100.0,1,100000.0,20.0,1,1,0,0,0,0
+616,TheLapelProject,Fashion/Beauty,8,150000.0,150000.0,100.0,1,150000.0,30.0,1,0,0,0,0,0
+617,GoodHangups,Lifestyle/Home,8,100000.0,100000.0,100.0,1,100000.0,15.0,0,1,0,0,0,0
+618,IceAgeMeals,Food and Beverage,8,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+619,TactiBite,Fitness/Sports/Outdoors,8,150000.0,150000.0,100.0,1,150000.0,10.0,0,0,0,0,0,1
+620,RaisingWild,Fashion/Beauty,8,100000.0,100000.0,100.0,1,100000.0,50.0,0,0,0,0,1,0
+621,TheCookieKahuna,Food and Beverage,8,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+622,TekDry,Software/Tech,8,500000.0,500000.0,100.0,1,500000.0,5.0,0,0,1,0,0,0
+623,NightRunner270,Fitness/Sports/Outdoors,8,200000.0,200000.0,100.0,1,200000.0,15.0,0,0,0,0,0,1
+624,Solemates,Fashion/Beauty,8,500000.0,500000.0,100.0,1,500000.0,20.0,0,0,0,0,0,1
+625,AtlanticCandyCompany,Food and Beverage,8,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+626,Biem,Food and Beverage,8,500000.0,500000.0,100.0,1,500000.0,14.0,0,1,0,0,0,0
+627,AngelsandTomboys,Fashion/Beauty,8,55000.0,55000.0,100.0,1,60000.0,33.3,1,0,0,1,0,0
+628,SandiLakeClothing,Children/Education,8,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+629,Parker'sMaple,Food and Beverage,8,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+630,SafeGrabs,Lifestyle/Home,8,75000.0,75000.0,100.0,1,75000.0,25.0,0,1,0,0,0,0
+631,SiliDogs,Pet Products,8,100000.0,100000.0,100.0,1,100000.0,30.0,0,1,0,0,0,0
+632,LuluBang,Food and Beverage,8,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+633,unPack,Travel,8,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+634,Sunscreeenr,Health/Wellness,8,800000.0,800000.0,100.0,1,800000.0,33.3,0,0,1,0,0,0
+635,PotatoParcel,Media/Entertainment,8,50000.0,50000.0,100.0,1,50000.0,10.0,0,0,1,0,0,0
+636,EcoFlower,Lifestyle/Home,8,400000.0,400000.0,100.0,1,400000.0,20.0,0,0,0,1,0,0
+637,StyleClub,Fashion/Beauty,8,500000.0,500000.0,100.0,1,500000.0,22.0,1,0,0,0,0,0
+638,SafeCatch,Food and Beverage,8,600000.0,600000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+639,#besomebody,Software/Tech,8,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+640,MilkSnob,Children/Education,8,125000.0,125000.0,100.0,1,150000.0,10.0,0,1,0,0,0,0
+641,Jack'sStands&Marketplaces,Children/Education,8,50000.0,50000.0,100.0,1,50000.0,0.0,0,0,0,0,0,0
+642,Chi'lantro,Food and Beverage,8,600000.0,600000.0,100.0,1,600000.0,20.0,0,0,0,0,1,0
+643,Toor,Lifestyle/Home,8,500000.0,500000.0,100.0,1,500000.0,10.0,0,0,1,0,1,0
+644,PupBox,Pet Products,8,250000.0,250000.0,100.0,1,250000.0,15.0,0,0,0,0,0,1
+645,BarbellApparel,Fashion/Beauty,8,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+646,ENERGYbits,Food and Beverage,8,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+647,LineCutterz,Fitness/Sports/Outdoors,8,120000.0,120000.0,100.0,1,120000.0,33.0,0,0,0,1,0,0
+648,Inboard,Fitness/Sports/Outdoors,8,750000.0,750000.0,100.0,1,750000.0,4.0,0,1,1,0,0,0
+649,PetPlate,Pet Products,8,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+650,Nootrobox,Food and Beverage,8,2000000.0,2000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+651,Nomiku,Food and Beverage,8,250000.0,250000.0,100.0,1,250000.0,10.0,0,0,0,0,0,0
+652,SealedbySanta,Children/Education,8,150000.0,150000.0,100.0,1,150000.0,20.0,0,1,0,0,0,0
+653,PolyGlide,Fitness/Sports/Outdoors,8,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+654,Digiwrap,Lifestyle/Home,8,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,1,0,0,0
+655,HandOutGloves,Fitness/Sports/Outdoors,8,150000.0,150000.0,100.0,1,300000.0,25.0,0,0,0,0,1,0
+656,PDXPetDesign,Pet Products,8,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+657,BasicOutfitters,Fashion/Beauty,8,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+658,VictoryCoffees,Food and Beverage,8,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+659,NaturallyPerfectDolls,Children/Education,8,200000.0,200000.0,100.0,1,200000.0,30.0,0,0,0,1,0,0
+660,GreaseBags,Lifestyle/Home,8,75000.0,75000.0,100.0,1,75000.0,50.0,0,0,0,0,1,0
+661,Pinblock,Children/Education,8,100000.0,100000.0,100.0,1,100000.0,50.0,0,0,1,0,0,0
+662,Mama'sMilkBox,Fashion/Beauty,8,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+663,NicePipes,Fashion/Beauty,8,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+664,Chirps,Food and Beverage,8,100000.0,100000.0,100.0,1,100000.0,15.0,1,0,0,0,0,0
+665,Vibes,Media/Entertainment,8,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+666,PopUpPlay,Children/Education,8,250000.0,250000.0,100.0,1,250000.0,8.3,0,0,0,0,0,0
+667,Getaway,Fitness/Sports/Outdoors,8,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+668,Kooler,Fitness/Sports/Outdoors,8,50000.0,50000.0,100.0,1,50000.0,33.3,0,0,0,1,0,0
+669,LittleNomad,Lifestyle/Home,8,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+670,RinseKit,Fitness/Sports/Outdoors,8,250000.0,250000.0,100.0,1,250000.0,7.5,0,0,0,1,0,0
+671,DBestProducts,Lifestyle/Home,8,350000.0,350000.0,100.0,1,2350000.0,20.0,1,1,0,0,0,0
+672,Tranquilo,Children/Education,8,100000.0,100000.0,100.0,1,200000.0,15.0,0,0,0,0,0,1
+673,DocSpartan,Health/Wellness,8,75000.0,75000.0,100.0,1,75000.0,25.0,0,0,0,0,0,1
+674,PeacefulFruits,Food and Beverage,8,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+675,FireFighterTurnOutBags,Fashion/Beauty,8,250000.0,250000.0,100.0,1,250000.0,50.0,0,1,0,0,0,0
+676,Toymail,Children/Education,8,250000.0,250000.0,100.0,1,600000.0,5.0,0,1,0,0,0,0
+677,EDNWallGarden,Green/CleanTech,8,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+678,HotelsByDay,Travel,8,750000.0,750000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+679,Bitsbox,Children/Education,8,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+680,SandCloud,Fitness/Sports/Outdoors,8,200000.0,200000.0,100.0,1,200000.0,15.0,0,0,0,0,0,1
+681,OraOrganics,Health/Wellness,8,375000.0,375000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+682,DartDrones,Software/Tech,8,300000.0,300000.0,100.0,1,300000.0,10.0,1,0,0,0,0,0
+683,ElephantPants,Fashion/Beauty,8,500000.0,500000.0,100.0,1,500000.0,17.5,0,0,0,1,0,0
+684,TheSleepStyler,Fashion/Beauty,8,75000.0,75000.0,100.0,1,75000.0,25.0,0,1,0,0,0,0
+685,BlendtiqueWineCompany,Food and Beverage,8,250000.0,250000.0,100.0,1,250000.0,10.0,0,1,0,0,0,0
+686,MealEnders,Food and Beverage,8,350000.0,350000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+687,Rareform,Fashion/Beauty,8,300000.0,300000.0,100.0,1,300000.0,10.0,0,0,1,0,0,0
+688,ApolloPeak,Pet Products,8,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,1,0,0,0
+689,Seedsheet,Lifestyle/Home,8,500000.0,500000.0,100.0,1,500000.0,20.0,0,0,0,0,0,1
+690,CropSticks,Lifestyle/Home,8,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+691,UnderTheWeather,Fitness/Sports/Outdoors,8,600000.0,600000.0,100.0,1,600000.0,15.0,1,0,0,0,0,0
+692,GuardLlama,Software/Tech,8,100000.0,100000.0,100.0,1,100000.0,18.0,0,0,0,0,1,0
+693,Flag,Lifestyle/Home,8,375000.0,375000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+694,Validated,Software/Tech,8,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+695,GuardianBikes,Fitness/Sports/Outdoors,8,500000.0,500000.0,100.0,1,500000.0,15.0,1,0,0,0,0,0
+696,Goverre,Lifestyle/Home,8,200000.0,200000.0,100.0,1,200000.0,33.3,1,1,0,0,0,1
+697,SeeRescueStreamer,Fitness/Sports/Outdoors,8,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+698,BootyQueenApparel,Fashion/Beauty,8,250000.0,250000.0,100.0,1,250000.0,33.3,0,0,0,1,0,0
+699,LoctoteIndustrialBag,Fashion/Beauty,8,150000.0,150000.0,100.0,1,150000.0,10.0,0,0,0,0,0,1
+700,ThompsonTee,Fashion/Beauty,8,700000.0,700000.0,100.0,1,700000.0,25.0,0,0,0,0,0,1
+701,WalletBuckle,Fashion/Beauty,8,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+702,RumiSpice,Food and Beverage,8,250000.0,250000.0,100.0,1,250000.0,15.0,1,0,0,0,0,0
+703,PeoplesDesign,Lifestyle/Home,8,75000.0,75000.0,100.0,1,75000.0,33.3,0,1,0,0,0,0
+704,Wine&Design,Media/Entertainment,8,500000.0,500000.0,100.0,1,500000.0,10.0,0,0,1,0,0,0
+705,RocketBook,Software/Tech,8,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+706,LaidBrand,Fashion/Beauty,8,30000.0,30000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+707,BridalBuddy,Fashion/Beauty,8,75000.0,75000.0,100.0,1,75000.0,30.0,0,1,1,0,0,0
+708,LockerBoard,Fitness/Sports/Outdoors,9,60000.0,60000.0,100.0,1,65000.0,20.0,0,0,0,0,0,0
+709,WypAviation,Fitness/Sports/Outdoors,9,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+710,SierraMadreResearch,Fitness/Sports/Outdoors,9,175000.0,175000.0,100.0,1,175000.0,15.0,0,0,0,0,0,0
+711,SimpleHabit,Health/Wellness,9,600000.0,600000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+712,Seventy2,Lifestyle/Home,9,100000.0,100000.0,100.0,1,200000.0,10.0,0,0,0,0,0,1
+713,Jackson'sHonest,Food and Beverage,9,1250000.0,1250000.0,100.0,1,1250000.0,15.0,0,0,0,0,0,0
+714,QBall,Media/Entertainment,9,200000.0,200000.0,100.0,1,300000.0,30.0,1,1,0,0,0,0
+715,Trippie,Travel,9,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+716,Firdgetland,Lifestyle/Home,9,50000.0,50000.0,100.0,1,50000.0,20.0,0,0,0,0,1,0
+717,Enso,Fashion/Beauty,9,500000.0,500000.0,100.0,1,500000.0,15.0,0,0,0,0,0,1
+718,ThirdWaveWater,Food and Beverage,9,100000.0,100000.0,100.0,1,100000.0,25.0,0,0,0,0,1,0
+719,TanglePets,Children/Education,9,75000.0,75000.0,100.0,1,75000.0,45.0,0,1,0,0,0,0
+720,DelightedBy,Food and Beverage,9,600000.0,600000.0,100.0,1,600000.0,12.0,1,0,0,0,0,0
+721,Solemender,Health/Wellness,9,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+722,IceShaker,Fitness/Sports/Outdoors,9,100000.0,100000.0,100.0,1,150000.0,15.0,1,0,0,0,0,0
+723,Benjilock,Fitness/Sports/Outdoors,9,200000.0,200000.0,100.0,1,200000.0,10.0,0,0,1,0,0,0
+724,Ash&Anvil,Fashion/Beauty,9,100000.0,100000.0,100.0,1,150000.0,25.0,1,0,0,0,0,0
+725,Mirmir,Media/Entertainment,9,350000.0,350000.0,100.0,1,700000.0,20.0,0,0,0,0,0,1
+726,Kwik-hang,Lifestyle/Home,9,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+727,HumanBobber,Fitness/Sports/Outdoors,9,120000.0,120000.0,100.0,1,120000.0,33.3,0,0,0,0,0,1
+728,NovelEffect,Children/Education,9,500000.0,500000.0,100.0,1,500000.0,15.0,0,1,0,0,0,0
+729,FatherFigure,Children/Education,9,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+730,DrainWig,Lifestyle/Home,9,300000.0,300000.0,100.0,1,300000.0,15.0,0,0,1,0,0,0
+731,BrazynLife,Fitness/Sports/Outdoors,9,225000.0,225000.0,100.0,1,250000.0,20.0,0,1,0,0,0,0
+732,GeoOrbital,Fitness/Sports/Outdoors,9,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+733,Qeepsake,Children/Education,9,350000.0,350000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+734,WaiveCar,Automotive,9,500000.0,500000.0,100.0,1,500000.0,2.0,0,0,1,0,0,0
+735,Pearachute,Children/Education,9,500000.0,500000.0,100.0,1,500000.0,15.0,1,0,0,0,0,0
+736,NoMo-Stach,Fashion/Beauty,9,100000.0,100000.0,100.0,1,100000.0,25.0,0,1,0,0,0,0
+737,SnoofyBee,Children/Education,9,85000.0,85000.0,100.0,1,120000.0,20.0,0,1,0,0,0,0
+738,DreamPad,Lifestyle/Home,9,800000.0,800000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+739,SnarkyTea,Food and Beverage,9,150000.0,150000.0,100.0,1,150000.0,50.0,0,0,1,0,0,0
+740,BrilliantPad,Pet Products,9,500000.0,500000.0,100.0,1,500000.0,5.0,0,1,0,0,0,0
+741,Bravo,Software/Tech,9,150000.0,150000.0,100.0,1,150000.0,14.0,1,1,0,0,0,0
+742,HoopMaps,Fitness/Sports/Outdoors,9,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+743,GloveStix,Fitness/Sports/Outdoors,9,150000.0,150000.0,100.0,1,150000.0,15.0,0,1,0,0,0,0
+744,Grypmat,Automotive,9,200000.0,200000.0,100.0,1,360000.0,30.0,1,1,0,0,0,0
+745,DNASimple,Health/Wellness,9,100000.0,100000.0,100.0,1,200000.0,15.0,1,0,0,0,0,0
+746,Robin,Fitness/Sports/Outdoors,9,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+747,SmartGurlz,Software/Tech,9,200000.0,200000.0,100.0,1,200000.0,5.0,0,0,0,1,0,0
+748,ReelyHookedFishCo.,Food and Beverage,9,75000.0,75000.0,100.0,1,75000.0,25.0,1,0,0,0,0,0
+749,CutBuddy,Fashion/Beauty,9,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,0,1,0,0
+750,Slumberkins,Children/Education,9,175000.0,175000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+751,ProntoBev,Lifestyle/Home,9,100000.0,100000.0,100.0,1,100000.0,25.0,1,0,0,0,0,0
+752,Hater,Software/Tech,9,200000.0,200000.0,100.0,1,200000.0,10.0,1,0,0,0,0,0
+753,CocoTaps,Lifestyle/Home,9,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+754,EverlyWell,Health/Wellness,9,1000000.0,1000000.0,100.0,1,1000000.0,5.0,0,1,0,0,0,0
+755,Mush,Food and Beverage,9,300000.0,300000.0,100.0,1,300000.0,10.0,1,0,0,0,0,0
+756,TheOriginalComfy,Fashion/Beauty,9,50000.0,50000.0,100.0,1,50000.0,20.0,0,0,0,0,1,0
+757,ChristmasTreeHugger,Lifestyle/Home,9,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+758,RokBlok,Media/Entertainment,9,300000.0,300000.0,100.0,1,500000.0,100.0,0,0,0,0,0,1
+759,ModernChristmasTrees,Lifestyle/Home,9,100000.0,100000.0,100.0,1,100000.0,18.0,0,0,0,0,1,0
+760,Frywall,Lifestyle/Home,9,100000.0,100000.0,100.0,1,100000.0,10.0,0,1,1,0,0,0
+761,EllipticalStroller,Fitness/Sports/Outdoors,9,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+762,Inirv,Lifestyle/Home,9,800000.0,800000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+763,Birddogs,Fashion/Beauty,9,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+764,iFork,Lifestyle/Home,9,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,0,0,1,0
+765,Stasher,Green/CleanTech,9,400000.0,400000.0,100.0,1,400000.0,15.0,1,0,0,0,0,0
+766,Recharj,Business Services,9,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+767,Detrapel,Lifestyle/Home,9,200000.0,200000.0,100.0,1,200000.0,25.0,1,1,0,0,0,0
+768,FishFry,Food and Beverage,9,150000.0,150000.0,100.0,1,150000.0,25.0,0,0,0,1,0,0
+769,GoatPetProducts,Pet Products,9,499000.0,499000.0,100.0,1,499000.0,33.3,0,0,0,0,0,1
+770,DudeRobe,Fashion/Beauty,9,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+771,TheLongHairs,Fashion/Beauty,9,95000.0,95000.0,100.0,1,100000.0,20.0,1,0,0,0,0,0
+772,Alice'sTable,Business Services,9,250000.0,250000.0,100.0,1,250000.0,10.0,1,0,0,0,0,0
+773,Zup,Fitness/Sports/Outdoors,9,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+774,BoobieBar,Food and Beverage,9,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,1,0,0
+775,Pandaloon,Pet Products,9,60000.0,60000.0,100.0,1,60000.0,35.0,0,0,0,1,0,0
+776,RounderBum,Fashion/Beauty,9,150000.0,150000.0,100.0,1,150000.0,5.0,0,0,1,0,0,0
+777,BrushHero,Lifestyle/Home,9,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+778,Savy,Fashion/Beauty,9,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+779,GuzzleBuddy,Food and Beverage,9,400000.0,400000.0,100.0,1,400000.0,25.0,0,0,0,1,0,0
+780,ThePop,Children/Education,9,250000.0,250000.0,100.0,1,250000.0,10.0,0,0,1,0,0,0
+781,BouquetBar,Lifestyle/Home,9,150000.0,150000.0,100.0,1,150000.0,25.0,1,0,0,0,0,0
+782,TheWingman,Fitness/Sports/Outdoors,9,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+783,Zuvaa,Fashion/Beauty,9,460000.0,460000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+784,TheDoughBar,Food and Beverage,9,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,0,0,1,0
+785,ShowerPill,Health/Wellness,9,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+786,ChangEd,Children/Education,9,250000.0,250000.0,100.0,1,250000.0,25.0,1,0,0,0,0,0
+787,SnapClips,Fitness/Sports/Outdoors,9,150000.0,150000.0,100.0,1,150000.0,30.0,1,1,0,0,0,0
+788,Sap!,Food and Beverage,9,600000.0,600000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+789,Radiate,Fitness/Sports/Outdoors,9,50000.0,50000.0,100.0,1,100000.0,25.0,0,0,0,0,0,1
+790,Petrol,Pet Products,9,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+791,EveryTable,Food and Beverage,9,1000000.0,1000000.0,100.0,1,1000000.0,10.0,0,0,0,0,0,0
+792,GunnarOptiks,Lifestyle/Home,9,750000.0,750000.0,100.0,1,750000.0,5.0,0,1,0,0,0,0
+793,Avocaderia,Food and Beverage,9,300000.0,300000.0,100.0,1,400000.0,20.0,1,0,0,0,1,0
+794,Solsource,Lifestyle/Home,9,500000.0,500000.0,100.0,1,500000.0,4.0,1,0,0,0,0,0
+795,Sunniva,Food and Beverage,9,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+796,EggMazing,Lifestyle/Home,9,350000.0,350000.0,100.0,1,150000.0,10.0,0,1,0,0,0,0
+797,Hugo'sAmazingTape,Lifestyle/Home,9,50000.0,50000.0,100.0,1,100000.0,100.0,1,1,0,0,0,0
+798,Coolpeds,Fitness/Sports/Outdoors,9,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+799,CoinOut,Software/Tech,9,250000.0,250000.0,100.0,1,250000.0,15.0,0,0,0,0,0,1
+800,Bermie's,Fashion/Beauty,9,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+801,Dermovia,Fashion/Beauty,9,350000.0,350000.0,100.0,1,350000.0,15.0,0,1,0,0,0,0
+802,Palmini,Food and Beverage,9,300000.0,300000.0,100.0,1,300000.0,25.0,1,1,0,0,0,0
+803,Thrive+,Health/Wellness,9,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+804,FinalStraw,Lifestyle/Home,10,625000.0,625000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+805,BearBowl,Lifestyle/Home,10,100000.0,100000.0,100.0,1,100000.0,25.0,0,0,0,0,0,0
+806,Le-Glue,Children/Education,10,80000.0,80000.0,100.0,1,80000.0,20.0,0,0,1,0,0,0
+807,Boxlock,Lifestyle/Home,10,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+808,sanaÃ­a,Food and Beverage,10,150000.0,150000.0,100.0,1,150000.0,25.0,1,0,0,0,0,0
+809,LugBug,Children/Education,10,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+810,Ta-TaTowels,Fashion/Beauty,10,200000.0,200000.0,100.0,1,200000.0,40.0,0,1,0,0,0,0
+811,ShedDefender,Pet Products,10,250000.0,250000.0,100.0,1,250000.0,25.0,0,1,0,0,0,0
+812,Soupergirl,Food and Beverage,10,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+813,Bundil,Software/Tech,10,100000.0,100000.0,100.0,1,100000.0,50.0,0,0,1,0,0,0
+814,BeyondSushi,Food and Beverage,10,1500000.0,1500000.0,100.0,1,1500000.0,45.0,0,1,0,0,0,0
+815,CupBoardPro,Lifestyle/Home,10,100000.0,100000.0,100.0,1,100000.0,20.0,1,1,1,1,0,0
+816,Manscaped,Health/Wellness,10,500000.0,500000.0,100.0,1,500000.0,25.0,1,1,0,0,0,0
+817,BoomBoom,Health/Wellness,10,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+818,CaveShake,Food and Beverage,10,250000.0,250000.0,100.0,1,250000.0,20.0,0,0,0,0,0,0
+819,ButterCloth,Fashion/Beauty,10,250000.0,250000.0,100.0,1,250000.0,25.0,0,0,0,0,0,1
+820,HandbagRaincoat,Fashion/Beauty,10,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+821,RewardStock,Software/Tech,10,200000.0,200000.0,100.0,1,320000.0,10.0,1,0,0,0,0,0
+822,Wisp,Lifestyle/Home,10,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+823,TheKombuchaShop,Food and Beverage,10,350000.0,350000.0,100.0,1,200000.0,10.0,0,0,0,0,1,0
+824,Lockstraps,Lifestyle/Home,10,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+825,VadeNutrition,Food and Beverage,10,250000.0,250000.0,100.0,1,700000.0,40.0,1,0,0,0,0,0
+826,Nui,Food and Beverage,10,300000.0,300000.0,100.0,1,300000.0,25.0,0,0,0,0,0,0
+827,Bottlekeeper,Liquor/Alcohol,10,1000000.0,1000000.0,100.0,1,1000000.0,5.0,1,1,0,0,0,0
+828,Prank-O,Uncertain/Other,10,640000.0,640000.0,100.0,1,640000.0,25.0,1,0,0,0,0,0
+829,Ski-Z,Fitness/Sports/Outdoors,10,50000.0,50000.0,100.0,1,50000.0,15.0,0,0,0,0,1,0
+830,OatMeals,Food and Beverage,10,500000.0,500000.0,100.0,1,500000.0,33.3,0,1,0,0,0,0
+831,HireSanta,Business Services,10,200000.0,200000.0,100.0,1,200000.0,10.0,0,0,0,0,1,0
+832,PopItPal,Uncertain/Other,10,250000.0,250000.0,100.0,1,250000.0,5.0,0,0,1,0,0,0
+833,Yumble,Food and Beverage,10,500000.0,500000.0,100.0,1,500000.0,6.0,0,0,0,0,0,0
+834,BollyX,Fitness/Sports/Outdoors,10,375000.0,375000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+835,Mother/Poppi,Food and Beverage,10,400000.0,400000.0,100.0,1,400000.0,25.0,0,0,0,0,0,0
+836,MokiDoorstep,Automotive,10,150000.0,150000.0,100.0,1,3000000.0,100.0,0,0,0,1,0,0
+837,SproingFitness,Fitness/Sports/Outdoors,10,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+838,Bruw,Food and Beverage,10,50000.0,50000.0,100.0,1,50000.0,30.0,1,0,0,0,0,0
+839,TushBaby,Children/Education,10,200000.0,200000.0,100.0,1,200000.0,20.0,0,1,0,0,0,0
+840,AdventureHunt,Fitness/Sports/Outdoors,10,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,0,0,1
+841,Uniform,Fashion/Beauty,10,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+842,Pristine,Health/Wellness,10,50000.0,50000.0,100.0,1,50000.0,25.0,0,1,0,0,0,0
+843,Aquapaw,Pet Products,10,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+844,SonnetJames,Fashion/Beauty,10,350000.0,350000.0,100.0,1,350000.0,25.0,0,0,0,0,0,0
+845,KittyKasas,Pet Products,10,200000.0,200000.0,100.0,1,200000.0,30.0,0,1,0,0,0,0
+846,MakeupJunkieBags,Fashion/Beauty,10,200000.0,200000.0,100.0,1,200000.0,5.0,0,1,0,0,0,0
+847,AngelShaveClub,Fashion/Beauty,10,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+848,ObviousWines,Food and Beverage,10,150000.0,150000.0,100.0,1,160000.0,12.5,0,1,0,0,0,0
+849,ZuGoPet,Pet Products,10,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+850,MontiKids,Children/Education,10,200000.0,200000.0,100.0,1,200000.0,2.5,0,0,1,0,0,0
+851,TwistItUpCombs,Fashion/Beauty,10,225000.0,225000.0,100.0,1,225000.0,25.0,1,0,0,1,0,0
+852,FreshBellies,Food and Beverage,10,275000.0,275000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+853,SubSafe,Lifestyle/Home,10,50000.0,50000.0,100.0,1,100000.0,25.0,1,0,0,0,0,0
+854,Zorpads,Fashion/Beauty,10,150000.0,150000.0,100.0,1,150000.0,22.5,0,1,0,0,0,0
+855,LifeLiftSystems,Lifestyle/Home,10,550000.0,550000.0,100.0,1,550000.0,25.0,1,0,0,0,0,0
+856,CulrMix,Fashion/Beauty,10,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+857,Zookies,Pet Products,10,50000.0,50000.0,100.0,1,50000.0,30.0,0,0,0,0,0,0
+858,GOGA,Health/Wellness,10,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+859,ShowerToga,Lifestyle/Home,10,80000.0,80000.0,100.0,1,80000.0,40.0,1,0,0,0,0,0
+860,ToyBox,Software/Tech,10,150000.0,150000.0,100.0,1,150000.0,13.0,0,0,1,0,0,0
+861,Moink,Food and Beverage,10,250000.0,250000.0,100.0,1,400000.0,20.0,0,0,0,0,0,0
+862,Goalsetter,Software/Tech,10,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+863,JollyRoger,Software/Tech,10,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+864,UrbanFloat,Health/Wellness,10,500000.0,500000.0,100.0,1,500000.0,12.5,0,0,0,0,0,0
+865,KudoBanz,Children/Education,10,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+866,PoochSelfie,Pet Products,10,100000.0,100000.0,100.0,1,100000.0,33.3,0,0,0,1,0,0
+867,WildEarth,Pet Products,10,550000.0,550000.0,100.0,1,550000.0,10.0,1,0,0,0,0,0
+868,SilkRoll,Fashion/Beauty,10,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+869,PressWaffleCo.,Food and Beverage,10,200000.0,200000.0,100.0,1,300000.0,15.0,0,0,0,0,1,0
+870,PickUpPools,Automotive,10,100000.0,100000.0,100.0,1,100000.0,33.3,1,0,0,0,0,0
+871,Dare-U-Go,Children/Education,10,350000.0,350000.0,100.0,1,350000.0,35.0,0,0,0,0,1,0
+872,Nuchas,Food and Beverage,10,2000000.0,2000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+873,HavenLock,Lifestyle/Home,10,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+874,Kanga,Lifestyle/Home,10,100000.0,100000.0,100.0,1,100000.0,20.0,1,0,0,0,0,0
+875,CertifiKID,Children/Education,10,600000.0,600000.0,100.0,1,600000.0,19.0,0,0,1,0,0,0
+876,Pricetitution,Media/Entertainment,10,100000.0,100000.0,100.0,1,100000.0,40.0,0,0,0,0,1,0
+877,LumaSoda,Food and Beverage,10,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+878,Hydroviv,Lifestyle/Home,10,400000.0,400000.0,100.0,1,400000.0,20.0,1,0,0,0,0,0
+879,Flip-It,Lifestyle/Home,10,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+880,Maven'sCreamery,Food and Beverage,10,400000.0,400000.0,100.0,1,400000.0,25.0,0,0,0,0,1,0
+881,Sapre,Business Services,10,500000.0,500000.0,100.0,1,500000.0,14.0,1,0,0,0,0,0
+882,Swoveralls,Fashion/Beauty,10,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+883,Somnifix,Health/Wellness,10,500000.0,500000.0,100.0,1,500000.0,20.0,1,0,0,0,0,0
+884,TheBestPocketSqaureHolder,Fashion/Beauty,10,250000.0,250000.0,100.0,1,200000.0,0.0,0,0,0,1,0,0
+885,Basepaws,Pet Products,10,250000.0,250000.0,100.0,1,250000.0,10.0,0,0,1,0,0,1
+886,TheBangShack,Food and Beverage,10,80000.0,80000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+887,Kymera,Fitness/Sports/Outdoors,10,250000.0,250000.0,100.0,1,500000.0,10.0,0,0,0,0,0,1
+888,DeskView,Lifestyle/Home,10,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,1,0,0,0
+889,Saucemoto,Automotive,10,45000.0,45000.0,100.0,1,45000.0,25.0,0,0,0,0,0,1
+890,DoughP,Food and Beverage,10,450000.0,450000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+891,Cubicall,Lifestyle/Home,10,350000.0,350000.0,100.0,1,350000.0,25.0,0,0,0,0,1,0
+892,FatShack,Food and Beverage,10,250000.0,250000.0,100.0,1,250000.0,15.0,1,0,0,0,0,0
+893,Quickflip,Fashion/Beauty,10,500000.0,500000.0,100.0,1,500000.0,10.0,0,1,0,0,0,0
+894,BatBnB,Lifestyle/Home,10,100000.0,100000.0,100.0,1,100000.0,33.3,0,0,1,0,0,0
+895,CoyoteVest,Pet Products,10,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+896,Blueland,Lifestyle/Home,11,270000.0,270000.0,100.0,1,270000.0,3.0,0,0,1,0,0,0
+897,TaDah!,Food and Beverage,11,300000.0,300000.0,100.0,1,500000.0,25.0,0,0,0,0,0,0
+898,Minuscal,Health/Wellness,11,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+899,BabyToon,Children/Education,11,50000.0,50000.0,100.0,1,50000.0,50.0,0,1,0,0,0,0
+900,BoostOxygen,Health/Wellness,11,1000000.0,1000000.0,100.0,1,1000000.0,6.25,0,0,1,0,0,0
+901,AtlasMonroe,Food and Beverage,11,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+902,CircadianOptics,Health/Wellness,11,750000.0,750000.0,100.0,1,750000.0,20.0,1,1,0,0,0,0
+903,FaceYogaWithKoko,Health/Wellness,11,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+904,Eterneva,Business Services,11,600000.0,600000.0,100.0,1,600000.0,9.0,1,0,0,0,0,0
+905,Aira,Software/Tech,11,500000.0,500000.0,100.0,1,500000.0,15.0,0,1,1,0,0,1
+906,Baobab,Fashion/Beauty,11,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+907,SquidSocks,Children/Education,11,125000.0,125000.0,100.0,1,125000.0,33.0,0,0,0,1,0,0
+908,Snacklins,Food and Beverage,11,250000.0,250000.0,100.0,1,250000.0,5.0,1,0,0,0,0,0
+909,BugBiteThing,Health/Wellness,11,150000.0,150000.0,100.0,1,150000.0,10.0,0,1,0,0,0,0
+910,PlopStar,Lifestyle/Home,11,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+911,KnifeAid,Business Services,11,400000.0,400000.0,100.0,1,500000.0,20.0,0,1,0,0,0,0
+912,Golfkicks,Fashion/Beauty,11,300000.0,300000.0,100.0,1,300000.0,13.0,1,0,0,0,0,0
+913,MyoStorm,Health/Wellness,11,150000.0,150000.0,100.0,1,150000.0,5.0,0,1,0,0,0,0
+914,TailgateNGo,Fitness/Sports/Outdoors,11,250000.0,250000.0,100.0,1,250000.0,20.0,0,0,0,0,0,0
+915,NerditNow,Business Services,11,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+916,EZCPak,Health/Wellness,11,125000.0,125000.0,100.0,1,125000.0,5.0,0,0,1,0,0,0
+917,PiliHunters,Food and Beverage,11,325000.0,325000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+918,Supply,Lifestyle/Home,11,300000.0,300000.0,100.0,1,300000.0,15.0,0,0,0,0,0,1
+919,TheMeasuringShovel,Lifestyle/Home,11,40000.0,40000.0,100.0,1,40000.0,30.0,0,1,1,0,0,0
+920,TheYard,Food and Beverage,11,400000.0,400000.0,100.0,1,400000.0,22.0,1,0,0,0,0,0
+921,Baubles+Soles,Fashion/Beauty,11,150000.0,150000.0,100.0,1,150000.0,25.0,0,0,0,1,0,0
+922,PeanutButterPump,Lifestyle/Home,11,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+923,DogThreads,Pet Products,11,250000.0,250000.0,100.0,1,250000.0,25.0,1,0,0,0,0,0
+924,Gallant,Pet Products,11,500000.0,500000.0,100.0,1,500000.0,5.0,0,1,0,0,0,0
+925,Outer,Lifestyle/Home,11,750000.0,750000.0,100.0,1,750000.0,5.0,0,1,0,0,0,0
+926,Mrs.Goldfarb'sUnrealDeli,Food and Beverage,11,100000.0,100000.0,100.0,1,250000.0,20.0,1,0,0,0,0,0
+927,Terra-Core,Fitness/Sports/Outdoors,11,300000.0,300000.0,100.0,1,300000.0,22.5,0,1,0,0,0,0
+928,KitLender,Business Services,11,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+929,Beardaments,Business Services,11,150000.0,150000.0,100.0,1,150000.0,25.0,0,0,1,0,0,0
+930,EasyTreezy,Lifestyle/Home,11,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+931,LittleElf,Lifestyle/Home,11,150000.0,150000.0,100.0,1,150000.0,20.0,0,1,0,0,0,0
+932,Flexscreen,Lifestyle/Home,11,800000.0,800000.0,100.0,1,400000.0,10.0,0,1,0,0,0,0
+933,Fortress,Fashion/Beauty,11,600000.0,600000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+934,SlumberPod,Children/Education,11,400000.0,400000.0,100.0,1,400000.0,20.0,0,0,0,0,1,0
+935,ZUUM,Fitness/Sports/Outdoors,11,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+936,KreyÃ²lEssence,Health/Wellness,11,400000.0,400000.0,100.0,1,400000.0,5.0,0,0,1,0,0,0
+937,LoveSync,Business Services,11,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+938,WisePocketProducts,Fashion/Beauty,11,30000.0,30000.0,100.0,1,35000.0,25.0,0,1,0,1,0,0
+939,WannaDate?,Food and Beverage,11,100000.0,100000.0,100.0,1,100000.0,33.0,1,0,0,0,0,0
+940,Ka-Pop!,Food and Beverage,11,350000.0,350000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+941,GeniusJuice,Food and Beverage,11,250000.0,250000.0,100.0,1,500000.0,25.0,1,0,0,0,1,0
+942,"Ready,Set,Food!",Children/Education,11,350000.0,350000.0,100.0,1,350000.0,10.0,1,0,0,0,0,0
+943,RapidRope,Fitness/Sports/Outdoors,11,200000.0,200000.0,100.0,1,200000.0,30.0,0,0,0,0,1,0
+944,Fur,Fashion/Beauty,11,500000.0,500000.0,100.0,1,500000.0,8.0,0,1,0,0,0,0
+945,BalaBangles,Fitness/Sports/Outdoors,11,400000.0,400000.0,100.0,1,900000.0,30.0,1,0,0,0,0,0
+946,Pips&Bounce,Food and Beverage,11,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+947,ShakeItPup,Food and Beverage,11,100000.0,100000.0,100.0,1,100000.0,25.0,1,0,0,0,0,0
+948,BabyQuip,Business Services,11,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+949,BiteToothpasteBits,Health/Wellness,11,325000.0,325000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+950,PairEyewear,Health/Wellness,11,400000.0,400000.0,100.0,1,400000.0,10.0,0,1,0,0,0,0
+951,CoconutGirl,Food and Beverage,11,180000.0,180000.0,100.0,1,180000.0,20.0,1,0,0,0,0,0
+952,Swimply,Business Services,11,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+953,KidsLuv,Food and Beverage,11,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+954,Bertello,Lifestyle/Home,11,120000.0,120000.0,100.0,1,120000.0,25.0,0,0,1,0,0,0
+955,SpaceTraveler,Children/Education,11,100000.0,100000.0,100.0,1,100000.0,33.3,0,0,0,0,1,0
+956,Bohana,Food and Beverage,11,200000.0,200000.0,100.0,1,200000.0,8.0,0,0,1,0,0,0
+957,Boho,Fitness/Sports/Outdoors,11,300000.0,300000.0,100.0,1,150000.0,10.0,0,0,0,0,1,0
+958,Grouphug,Lifestyle/Home,11,150000.0,150000.0,100.0,1,150000.0,25.0,1,0,0,0,0,0
+959,SafetyNailer,Lifestyle/Home,11,100000.0,100000.0,100.0,1,100000.0,33.0,1,1,0,0,0,0
+960,Goumi,Children/Education,11,1000000.0,1000000.0,100.0,1,1000000.0,10.0,0,0,1,0,0,0
+961,PastabyHudson,Business Services,11,150000.0,150000.0,100.0,1,150000.0,30.0,1,1,0,0,0,0
+962,CritterPricker,Lifestyle/Home,11,115000.0,115000.0,100.0,1,115000.0,15.0,0,0,1,0,0,0
+963,TheFrozenFarmer,Food and Beverage,11,125000.0,125000.0,100.0,1,125000.0,30.0,0,1,0,0,0,0
+964,BadBirdie,Fashion/Beauty,11,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,0,0,0,1
+965,Beddley,Lifestyle/Home,11,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+966,Muvez,Fashion/Beauty,11,200000.0,200000.0,100.0,1,200000.0,25.0,0,0,0,1,0,0
+967,PrepWellAcademy,Business Services,11,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+968,JustTheCheese,Food and Beverage,11,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+969,Neuro,Food and Beverage,11,750000.0,750000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+970,FirstSaturdayLime,Lifestyle/Home,11,100000.0,100000.0,100.0,1,100000.0,25.0,0,0,1,0,0,0
+971,SeriouslySlime,Children/Education,11,90000.0,90000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+972,LittleBurros,Lifestyle/Home,11,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+973,Jiggaerobics,Fitness/Sports/Outdoors,11,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+974,FriedGreenTomatoes,Food and Beverage,11,200000.0,200000.0,100.0,1,200000.0,30.0,0,0,0,0,1,0
+975,MuralPainter,Business Services,11,300000.0,300000.0,100.0,1,300000.0,15.0,0,0,0,0,1,0
+976,Proven,Health/Wellness,11,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+977,Tanoshi,Software/Tech,11,500000.0,500000.0,100.0,1,500000.0,20.0,0,0,0,1,0,0
+978,UnbuckleMe,Lifestyle/Home,11,100000.0,100000.0,100.0,1,100000.0,20.0,1,1,0,0,0,0
+979,VanRobotics,Software/Tech,11,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+980,LordVonSchmitt,Fashion/Beauty,11,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+981,PottySafe,Children/Education,11,50000.0,50000.0,100.0,1,50000.0,20.0,0,1,0,0,0,0
+982,ToughTie,Fashion/Beauty,11,100000.0,100000.0,100.0,1,100000.0,35.0,0,0,0,0,0,1
+983,DadWare,Fashion/Beauty,11,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+984,Salted,Business Services,11,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+985,MCSquares,Lifestyle/Home,11,300000.0,300000.0,100.0,1,300000.0,25.0,0,0,1,0,0,0
+986,Slate,Food and Beverage,11,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+987,RescueReady,Lifestyle/Home,11,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+988,YellowLeafHammocks,Fitness/Sports/Outdoors,11,400000.0,400000.0,100.0,1,1000000.0,25.0,0,0,0,0,0,0
+989,DreamlandBaby,Children/Education,11,100000.0,100000.0,100.0,1,100000.0,22.5,0,1,0,0,0,0
+990,RollinGreens,Food and Beverage,11,500000.0,500000.0,100.0,1,500000.0,20.0,0,0,0,0,0,1
+991,TheMadOptimist,Health/Wellness,11,60000.0,60000.0,100.0,1,60000.0,20.0,1,0,0,0,0,0
+992,TouchUpCup,Business Services,12,150000.0,150000.0,100.0,1,200000.0,25.0,0,0,0,0,0,0
+993,SparkCharge,Business Services,12,1000000.0,1000000.0,100.0,1,1000000.0,10.0,1,1,0,0,0,0
+994,GarmaGuard,Lifestyle/Home,12,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+995,Rumpl,Lifestyle/Home,12,600000.0,600000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+996,BootayBag,Lifestyle/Home,12,500000.0,500000.0,100.0,1,500000.0,10.0,0,0,0,0,0,0
+997,GoOats,Food and Beverage,12,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,0,1,0
+998,PoochPaper,Lifestyle/Home,12,250000.0,250000.0,100.0,1,250000.0,0.0,0,0,1,0,0,0
+999,PNuffCrunch,Food and Beverage,12,300000.0,300000.0,100.0,1,400000.0,25.0,1,0,0,0,0,0
+1000,HugSleep,Lifestyle/Home,12,150000.0,150000.0,100.0,1,300000.0,20.0,1,1,0,0,0,0
+1001,AnimatedLure,Lifestyle/Home,12,325000.0,325000.0,100.0,1,325000.0,10.0,0,0,1,0,0,0
+1002,TheCerealKillerzKitchen,Food and Beverage,12,125000.0,125000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1003,Chirp,Fitness/Sports/Outdoors,12,900000.0,900000.0,100.0,1,900000.0,2.5,0,1,0,0,0,0
+1004,JadaSpices,Food and Beverage,12,250000.0,250000.0,100.0,1,250000.0,33.0,0,0,0,0,1,0
+1005,SurpriseCake,Food and Beverage,12,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1006,TheMightyCarver,Lifestyle/Home,12,100000.0,100000.0,100.0,1,100000.0,25.0,0,0,0,1,0,0
+1007,Flipstik,Electronics,12,100000.0,100000.0,100.0,1,100000.0,25.0,0,1,0,0,0,0
+1008,Fitfighter,Fitness/Sports/Outdoors,12,250000.0,250000.0,100.0,1,250000.0,25.0,0,0,0,0,0,0
+1009,LiftidNeurostimulation,Health/Wellness,12,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1010,FoamPartyHats,Fashion/Beauty,12,100000.0,100000.0,100.0,1,100000.0,25.0,1,1,0,0,0,0
+1011,BeeD'Vine,Food and Beverage,12,750000.0,750000.0,100.0,1,750000.0,40.0,1,1,0,0,0,1
+1012,Pan'sMushroomJerky,Food and Beverage,12,300000.0,300000.0,100.0,1,300000.0,18.0,1,0,0,0,0,0
+1013,K9Mask,Pet Products,12,200000.0,200000.0,100.0,1,200000.0,40.0,0,0,0,1,0,0
+1014,Moment,Food and Beverage,12,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1015,Prime6,Lifestyle/Home,12,200000.0,200000.0,100.0,1,200000.0,25.0,0,0,1,0,0,0
+1016,TheHoliball,Fashion/Beauty,12,150000.0,150000.0,100.0,1,150000.0,25.0,1,0,0,0,1,0
+1017,ToiletTimer,Lifestyle/Home,12,200000.0,200000.0,100.0,1,200000.0,25.0,1,0,0,0,0,0
+1018,ODRSkis,Fitness/Sports/Outdoors,12,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1019,BuckleMeBabyCoats,Lifestyle/Home,12,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,0,1,0,0
+1020,Peekaboo,Food and Beverage,12,800000.0,800000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1021,BrakeFree,Automotive,12,200000.0,200000.0,100.0,1,200000.0,20.0,1,0,0,0,0,1
+1022,Click&Carry,Lifestyle/Home,12,225000.0,225000.0,100.0,1,225000.0,40.0,1,0,0,0,1,0
+1023,CodibyPillarLearning,Children/Education,12,500000.0,500000.0,100.0,1,500000.0,25.0,0,0,0,0,0,1
+1024,Electra,Food and Beverage,12,350000.0,350000.0,100.0,1,350000.0,30.0,0,0,0,0,1,0
+1025,ALL33,Lifestyle/Home,12,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1026,HisandHerBar,Food and Beverage,12,50000.0,50000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1027,TrophySmack,Fitness/Sports/Outdoors,12,600000.0,600000.0,100.0,1,600000.0,17.0,1,0,0,0,0,0
+1028,SliceofSauce,Food and Beverage,12,200000.0,200000.0,100.0,1,200000.0,15.0,0,0,0,0,0,0
+1029,LoveisProject,Fashion/Beauty,12,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1030,LunaMagic,Fashion/Beauty,12,200000.0,200000.0,100.0,1,250000.0,30.0,0,0,0,0,1,0
+1031,BubblyBlaster,Lifestyle/Home,12,120000.0,120000.0,100.0,1,180000.0,30.0,1,0,0,0,0,0
+1032,Quevos,Food and Beverage,12,200000.0,200000.0,100.0,1,200000.0,10.0,0,0,0,0,0,0
+1033,Brumachen,Food and Beverage,12,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1034,AuraBora,Food and Beverage,12,150000.0,150000.0,100.0,1,200000.0,15.0,0,0,0,0,0,1
+1035,SwipeNSnap,Children/Education,12,120000.0,120000.0,100.0,1,120000.0,50.0,0,1,1,0,0,0
+1036,YonoClip,Lifestyle/Home,12,150000.0,150000.0,100.0,1,150000.0,30.0,0,0,0,1,0,0
+1037,NightCap,Food and Beverage,12,60000.0,60000.0,100.0,1,60000.0,25.0,0,1,0,0,0,0
+1038,RuleBreaker,Food and Beverage,12,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1039,MountainFlowEco-Wax,Health/Wellness,12,250000.0,250000.0,100.0,1,300000.0,20.0,0,0,1,0,1,0
+1040,JaxSheets,Lifestyle/Home,12,212000.0,212000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1041,ThePizzaCupcake,Food and Beverage,12,125000.0,125000.0,100.0,1,125000.0,12.5,0,1,0,0,0,0
+1042,IceBeanie,Food and Beverage,12,50000.0,50000.0,100.0,1,50000.0,25.0,1,0,0,0,0,0
+1043,DraftTop,Food and Beverage,12,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,0,1,0,0
+1044,PashionFootwear,Fashion/Beauty,12,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1045,SouperCubes,Food and Beverage,12,400000.0,400000.0,100.0,1,400000.0,5.0,0,1,0,0,0,0
+1046,ByootCompany,Fashion/Beauty,12,50000.0,50000.0,100.0,1,50000.0,5.0,0,0,0,0,0,0
+1047,SiennaSauce,Food and Beverage,12,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,0,0,0,0
+1048,BetterBedder,Lifestyle/Home,12,150000.0,150000.0,100.0,1,150000.0,18.0,0,1,0,0,0,0
+1049,EverythingLegendary,Food and Beverage,12,300000.0,300000.0,100.0,1,300000.0,22.0,1,0,0,0,0,0
+1050,WalkeePaws,Pet Products,12,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1051,Hopscotch,Software/Tech,12,400000.0,400000.0,100.0,1,550000.0,11.0,1,0,0,0,0,0
+1052,SimplyGoodJars,Food and Beverage,12,500000.0,500000.0,100.0,1,500000.0,10.0,1,1,0,0,0,0
+1053,PinchMeTherapyDough,Health/Wellness,12,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,0,0,0,1
+1054,MuffWaders,Food and Beverage,12,25000.0,25000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1055,BusyBabyMat,Children/Education,12,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1056,MisfitFoods,Food and Beverage,12,250000.0,250000.0,100.0,1,300000.0,10.0,1,0,0,0,0,0
+1057,ChillSystems,Food and Beverage,12,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1058,TandemBoogie,Fitness/Sports/Outdoors,12,100000.0,100000.0,100.0,1,100000.0,35.0,0,0,0,0,0,1
+1059,TotesBabies,Uncertain/Other,12,100000.0,100000.0,100.0,1,100000.0,25.0,0,1,0,0,0,0
+1060,NuMilk,Food and Beverage,12,1000000.0,1000000.0,100.0,1,1000000.0,7.0,1,0,0,0,0,0
+1061,HairyGrabster,Fashion/Beauty,12,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1062,MadRabbit,Fashion/Beauty,12,500000.0,500000.0,100.0,1,500000.0,12.0,1,0,0,0,0,0
+1063,BunchBikes,Automotive,12,250000.0,250000.0,100.0,1,250000.0,15.0,0,0,0,0,1,0
+1064,StepNPull,Lifestyle/Home,12,300000.0,300000.0,100.0,1,300000.0,6.0,0,0,1,0,0,0
+1065,DynoSafe,Uncertain/Other,12,150000.0,150000.0,100.0,1,150000.0,25.0,0,0,0,0,0,1
+1066,ProbioticMaker,Food and Beverage,12,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1067,Phoozy,Electronics,12,500000.0,500000.0,100.0,1,500000.0,8.0,0,1,0,0,0,1
+1068,OpulenceMDBeauty,Fashion/Beauty,12,75000.0,75000.0,100.0,1,100000.0,20.0,0,0,0,0,0,0
+1069,TheCheeseChopper,Lifestyle/Home,12,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1070,TheMatte,Fashion/Beauty,12,100000.0,100000.0,100.0,1,100000.0,33.3,0,1,0,0,0,0
+1071,FurZapper,Pet Products,12,600000.0,600000.0,100.0,1,600000.0,15.0,0,1,0,0,0,0
+1072,TruffleShuffle,Food and Beverage,12,500000.0,500000.0,100.0,1,501000.0,18.0,1,0,0,0,0,0
+1073,Suds2Go,Lifestyle/Home,12,200000.0,200000.0,100.0,1,200000.0,15.0,0,0,0,0,0,1
+1074,SaladSling,Food and Beverage,12,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1075,Larq,Health/Wellness,12,500000.0,500000.0,100.0,1,1000000.0,4.0,0,1,1,0,0,0
+1076,JiggyPuzzles,Uncertain/Other,12,500000.0,500000.0,100.0,1,500000.0,15.0,1,0,0,0,0,0
+1077,TheScrubbie,Lifestyle/Home,12,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1078,TheBumblingBee,Food and Beverage,12,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1079,XTorch,Lifestyle/Home,12,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1080,GrindBasketball,Business Services,12,250000.0,250000.0,100.0,1,250000.0,25.0,1,0,0,0,1,0
+1081,CreationNation,Food and Beverage,12,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1082,SneakERASERS,Fashion/Beauty,12,200000.0,200000.0,100.0,1,200000.0,20.0,0,1,0,0,0,0
+1083,BEERMKR,Liquor/Alcohol,12,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1084,Pluto,Lifestyle/Home,12,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1085,FlingGolf,Fitness/Sports/Outdoors,12,300000.0,300000.0,100.0,1,300000.0,25.0,0,0,0,0,0,0
+1086,FloatNGrill,Food and Beverage,12,200000.0,200000.0,100.0,1,100000.0,22.5,0,0,0,0,0,0
+1087,TheOriginalStretchlace,Lifestyle/Home,12,100000.0,100000.0,100.0,1,100000.0,30.0,0,0,0,0,0,1
+1088,DinoDon,Uncertain/Other,12,500000.0,500000.0,100.0,1,500000.0,25.0,1,0,0,0,0,0
+1089,CopperCowCoffee,Food and Beverage,12,600000.0,600000.0,100.0,1,600000.0,5.5,0,0,0,0,0,1
+1090,LitHandlers,Lifestyle/Home,12,200000.0,200000.0,100.0,1,200000.0,20.0,0,0,0,1,0,0
+1091,SuperPottyTrainer,Uncertain/Other,12,300000.0,300000.0,100.0,1,300000.0,50.0,0,1,0,0,0,0
+1092,KinApparel,Fashion/Beauty,13,200000.0,200000.0,100.0,1,200000.0,30.0,0,1,0,0,0,0
+1093,UprisingBread,Food and Beverage,13,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1094,LionLatch,Lifestyle/Home,13,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1095,Pashko,Fashion/Beauty,13,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1096,Songlorious,Lifestyle/Home,13,400000.0,400000.0,100.0,1,500000.0,40.0,1,0,1,1,0,0
+1097,MuteMe,Electronics,13,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1098,ProperGood,Food and Beverage,13,400000.0,400000.0,100.0,1,400000.0,20.0,1,0,0,0,0,0
+1099,LongWharf,Fashion/Beauty,13,375000.0,375000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1100,Sparketh,Children/Education,13,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,0,0,1,0
+1101,OatHaus,Food and Beverage,13,375000.0,375000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1102,FlaskyFlowers,Lifestyle/Home,13,50000.0,50000.0,100.0,1,75000.0,30.0,1,1,1,0,0,0
+1103,IncredibleEats,Food and Beverage,13,500000.0,500000.0,100.0,1,500000.0,15.0,0,1,0,0,0,0
+1104,Magic5,Lifestyle/Home,13,500000.0,500000.0,100.0,1,1000000.0,6.5,0,0,0,0,0,1
+1105,Tabby,Software/Tech,13,300000.0,300000.0,100.0,1,300000.0,30.0,0,0,1,0,0,0
+1106,SoaPen,Lifestyle/Home,13,100000.0,100000.0,100.0,1,100000.0,10.0,0,0,0,0,0,0
+1107,54Thrones,Fashion/Beauty,13,250000.0,250000.0,100.0,1,250000.0,17.5,0,0,1,0,0,0
+1108,Wedfuly,Software/Tech,13,200000.0,200000.0,100.0,1,200000.0,10.0,0,0,0,0,0,1
+1109,Wad-Free,Lifestyle/Home,13,200000.0,200000.0,100.0,1,200000.0,10.0,0,0,1,0,0,0
+1110,Beulr,Software/Tech,13,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1111,Spergo,Fashion/Beauty,13,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,0,1,0,0
+1112,FishFixe,Food and Beverage,13,200000.0,200000.0,100.0,1,200000.0,25.0,0,1,0,0,0,0
+1113,HelloPrenup,Lifestyle/Home,13,150000.0,150000.0,100.0,1,150000.0,30.0,0,0,1,0,0,0
+1114,Deux,Food and Beverage,13,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1115,Hidrent,Lifestyle/Home,13,300000.0,300000.0,100.0,1,300000.0,33.33,0,1,0,0,0,1
+1116,SheetsLaundryClub,Lifestyle/Home,13,500000.0,500000.0,100.0,1,500000.0,8.0,0,0,0,0,0,0
+1117,PinkPicasso,Lifestyle/Home,13,400000.0,400000.0,100.0,1,500000.0,15.0,0,1,0,0,0,0
+1118,Love&Pebble,Fashion/Beauty,13,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1119,ZachZoeSweetBeeFarm,Food and Beverage,13,150000.0,150000.0,100.0,1,150000.0,15.0,0,0,0,0,1,0
+1120,Wendy'sGnomeShop,Lifestyle/Home,13,200000.0,200000.0,100.0,1,200000.0,30.0,0,0,0,1,0,0
+1121,OrnamentAnchor,Fashion/Beauty,13,90000.0,90000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1122,TheRealElf,Lifestyle/Home,13,125000.0,125000.0,100.0,1,125000.0,35.0,0,0,0,0,1,0
+1123,Santa'sEnchantedMailbox,Lifestyle/Home,13,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1124,MaxproFitness,Health/Wellness,13,500000.0,500000.0,100.0,1,500000.0,3.0,1,0,0,0,0,0
+1125,BananaLoca,Food and Beverage,13,250000.0,250000.0,100.0,1,250000.0,25.0,1,0,1,0,0,0
+1126,LiberateStudio,Health/Wellness,13,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1127,Tenikle,Lifestyle/Home,13,200000.0,200000.0,100.0,1,200000.0,30.0,0,0,0,1,0,0
+1128,Snactiv,Lifestyle/Home,13,200000.0,200000.0,100.0,1,200000.0,20.0,0,1,0,0,0,0
+1129,SmartTireCompany,Automotive,13,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1130,Candi,Software/Tech,13,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1131,BlackSandsEntertainment,Media/Entertainment,13,500000.0,500000.0,100.0,1,500000.0,30.0,1,0,0,0,0,0
+1132,VaBroom,Lifestyle/Home,13,350000.0,350000.0,100.0,1,350000.0,2.5,0,0,1,0,0,0
+1133,MustLove,Food and Beverage,13,600000.0,600000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1134,Romperjack,Fashion/Beauty,13,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1135,RoqInnovation,Lifestyle/Home,13,200000.0,200000.0,100.0,1,200000.0,20.0,0,0,1,0,0,0
+1136,TaniaSpeaks,Fashion/Beauty,13,400000.0,400000.0,100.0,1,400000.0,15.0,1,0,0,0,0,0
+1137,TA3Swimwear,Lifestyle/Home,13,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1138,HiccAway,Health/Wellness,13,250000.0,250000.0,100.0,1,250000.0,20.0,1,0,0,0,0,0
+1139,TristenIkaika,Lifestyle/Home,13,250000.0,250000.0,100.0,1,250000.0,15.0,0,0,1,0,0,0
+1140,KettleGryp,Lifestyle/Home,13,300000.0,300000.0,100.0,1,300000.0,15.0,0,1,0,0,0,0
+1141,CalmStrips,Health/Wellness,13,250000.0,250000.0,100.0,1,250000.0,0.0,0,0,0,0,0,1
+1142,TheBlowzee,Health/Wellness,13,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1143,OverEZChickenCoop,Uncertain/Other,13,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1144,RangeBeauty,Fashion/Beauty,13,150000.0,150000.0,100.0,1,150000.0,20.0,0,1,0,0,0,0
+1145,DiaperDust,Health/Wellness,13,75000.0,75000.0,100.0,1,75000.0,40.0,1,0,0,0,0,0
+1146,PinoleBlue,Food and Beverage,13,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1147,Junobie,Food and Beverage,13,100000.0,100000.0,100.0,1,100000.0,22.5,0,0,0,0,0,0
+1148,Curie,Fashion/Beauty,13,300000.0,300000.0,100.0,1,300000.0,12.0,1,0,0,0,1,0
+1149,NogginBoss,Fitness/Sports/Outdoors,13,50000.0,50000.0,100.0,1,50000.0,30.0,0,0,0,1,0,0
+1150,BehaveBras,Fashion/Beauty,13,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,1,0,0,0
+1151,Ade+Ayo,Fashion/Beauty,13,175000.0,175000.0,100.0,1,700000.0,33.3,0,0,0,0,1,0
+1152,Sunflow,Business Services,13,1000000.0,1000000.0,100.0,1,1000000.0,5.0,0,0,1,0,0,0
+1153,Prepdeck,Lifestyle/Home,13,750000.0,750000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1154,Ootbox,Business Services,13,300000.0,300000.0,100.0,1,300000.0,10.0,0,0,0,0,1,0
+1155,DoAmore,Business Services,13,600000.0,600000.0,100.0,1,600000.0,15.0,0,0,0,0,0,0
+1156,YoungKingHairCare,Fashion/Beauty,13,225000.0,225000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1157,Pawnix,Pet Products,13,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1158,MagicDates,Food and Beverage,13,150000.0,150000.0,100.0,1,150000.0,33.3,0,0,1,0,0,0
+1159,Round21,Fitness/Sports/Outdoors,13,250000.0,250000.0,100.0,1,250000.0,10.0,0,0,1,0,0,0
+1160,ApollaPerformance,Lifestyle/Home,13,300000.0,300000.0,100.0,1,300000.0,20.0,0,1,0,0,0,0
+1161,UMARO,Food and Beverage,13,500000.0,500000.0,100.0,1,1000000.0,7.0,1,0,0,0,0,0
+1162,FortMagic,Children/Education,13,75000.0,75000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1163,NoLimbits,Fashion/Beauty,13,100000.0,100000.0,100.0,1,100000.0,10.0,1,0,0,0,0,0
+1164,LUCIDArt,Uncertain/Other,13,300000.0,300000.0,100.0,1,300000.0,15.0,0,0,0,1,0,0
+1165,SwiftPaws,Pet Products,13,240000.0,240000.0,100.0,1,240000.0,6.0,0,1,0,0,0,0
+1166,BusyBox,Business Services,13,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1167,DirtyCookie,Food and Beverage,13,500000.0,500000.0,100.0,1,500000.0,25.0,0,0,0,0,0,1
+1168,CatAmazing,Pet Products,13,200000.0,200000.0,100.0,1,200000.0,22.0,0,1,0,0,0,0
+1169,LilAdvents,Children/Education,13,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1170,HairFin,Fashion/Beauty,13,25000.0,25000.0,100.0,1,25000.0,30.0,0,0,0,1,0,0
+1171,Browndages,Children/Education,13,75000.0,75000.0,100.0,1,100000.0,25.0,1,1,0,1,0,0
+1172,CupBop,Food and Beverage,13,1000000.0,1000000.0,100.0,1,1000000.0,5.0,1,0,0,0,0,0
+1173,Plunge,Health/Wellness,13,1200000.0,1200000.0,100.0,1,1200000.0,12.0,0,0,0,0,0,1
+1174,HandyPan,Food and Beverage,13,100000.0,100000.0,100.0,1,100000.0,20.0,0,1,0,0,0,0
+1175,HamptonAdams,Fitness/Sports/Outdoors,13,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1176,PulpPantry,Food and Beverage,13,500000.0,500000.0,100.0,1,500000.0,17.0,1,0,0,0,0,0
+1177,KawaiiLightning,Business Services,13,88000.0,88000.0,100.0,1,100000.0,22.0,0,0,0,0,1,0
+1178,Pricklee,Food and Beverage,13,200000.0,200000.0,100.0,1,200000.0,20.0,0,0,0,0,1,0
+1179,Ooakshell,Fashion/Beauty,13,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,0,0,0
+1180,Stryx,Fashion/Beauty,13,600000.0,600000.0,100.0,1,600000.0,10.0,0,0,0,0,0,1
+1181,Driftline,Business Services,13,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1182,Springer,Pet Products,13,400000.0,400000.0,100.0,1,400000.0,10.0,0,1,0,0,0,0
+1183,Chill-N-Reel,Liquor/Alcohol,13,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1184,TheTransformationFactory,Food and Beverage,13,500000.0,500000.0,100.0,1,600000.0,20.0,1,0,0,0,0,0
+1185,ThePlayerâ€™sTrunk,Fitness/Sports/Outdoors,13,650000.0,650000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1186,AquaBoxingGloves,Fitness/Sports/Outdoors,13,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1187,ProjectPollo,Food and Beverage,13,2500000.0,2500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1188,KENT,Lifestyle/Home,14,200000.0,200000.0,100.0,1,200000.0,15.0,0,0,0,1,0,0
+1189,Oogiebear,Children/Education,14,400000.0,400000.0,100.0,1,600000.0,10.0,0,0,0,0,1,1
+1190,PizzaPack,Food and Beverage,14,100000.0,100000.0,100.0,1,100000.0,13.0,0,1,0,0,0,0
+1191,StaktMat,Lifestyle/Home,14,100000.0,100000.0,100.0,1,100000.0,15.0,0,1,0,0,0,0
+1192,BananaPhone,Electronics,14,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1193,StealthBros,Lifestyle/Home,14,200000.0,200000.0,100.0,1,200000.0,20.0,1,0,0,0,1,0
+1194,TheWoobles,Lifestyle/Home,14,250000.0,250000.0,100.0,1,450000.0,6.0,1,1,0,0,0,0
+1195,TurboTrusser,Food and Beverage,14,100000.0,100000.0,100.0,1,100000.0,33.0,0,0,1,0,0,0
+1196,CreateACastle,Children/Education,14,350000.0,350000.0,100.0,1,350000.0,20.0,0,0,0,0,0,0
+1197,HalloweenMoments,Lifestyle/Home,14,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1198,MamaO'sKimchi,Food and Beverage,14,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1199,Woosh,Lifestyle/Home,14,500000.0,500000.0,100.0,1,500000.0,10.0,0,0,1,0,0,0
+1200,ExpeditionSubsahara,Lifestyle/Home,14,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1201,Ghia,Food and Beverage,14,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1202,StorageScholars,Children/Education,14,250000.0,250000.0,100.0,1,250000.0,10.0,1,0,0,0,0,0
+1203,PrettyRugged,Fashion/Beauty,14,200000.0,200000.0,100.0,1,200000.0,25.0,0,1,0,0,0,1
+1204,BigBeeLittleBee,Children/Education,14,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1205,Plufl,Lifestyle/Home,14,200000.0,200000.0,100.0,1,200000.0,15.0,1,1,0,0,0,0
+1206,BridalBabes,Fashion/Beauty,14,250000.0,250000.0,100.0,1,250000.0,20.0,0,0,0,0,0,0
+1207,NanaHats,Food and Beverage,14,150000.0,150000.0,100.0,1,150000.0,20.0,0,1,0,0,0,0
+1208,TheSquareKeg,Food and Beverage,14,300000.0,300000.0,100.0,1,300000.0,20.0,0,0,1,0,0,0
+1209,Collars&Co,Fashion/Beauty,14,300000.0,300000.0,100.0,1,1000000.0,10.0,1,0,0,0,0,0
+1210,Wondry,Food and Beverage,14,185000.0,185000.0,100.0,1,225000.0,15.0,1,0,0,0,0,0
+1211,Frsh,Fashion/Beauty,14,200000.0,200000.0,100.0,1,200000.0,20.0,0,0,0,0,1,0
+1212,Actionglow,Fitness/Sports/Outdoors,14,200000.0,200000.0,100.0,1,200000.0,30.0,0,0,0,0,0,1
+1213,LegacyShave,Lifestyle/Home,14,300000.0,300000.0,100.0,1,700000.0,95.0,0,1,0,0,0,0
+1214,Boarderie,Food and Beverage,14,300000.0,300000.0,100.0,1,300000.0,9.0,0,1,0,0,0,0
+1215,HummViewer,Lifestyle/Home,14,75000.0,75000.0,100.0,1,75000.0,35.0,0,0,0,0,0,0
+1216,FireFighter1,Uncertain/Other,14,150000.0,150000.0,100.0,1,150000.0,25.0,1,1,0,0,0,0
+1217,ShredSkinz,Lifestyle/Home,14,60000.0,60000.0,100.0,1,60000.0,20.0,1,0,0,0,0,0
+1218,SliimeyHoney,Lifestyle/Home,14,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,1,0,0
+1219,ChessUp,Software/Tech,14,300000.0,300000.0,100.0,1,300000.0,5.0,0,1,0,0,0,0
+1220,ZipString,Children/Education,14,100000.0,100000.0,100.0,1,100000.0,20.0,0,0,1,0,0,1
+1221,GarageCelebrations,Lifestyle/Home,14,200000.0,200000.0,100.0,1,200000.0,30.0,1,0,0,0,0,0
+1222,ReadyFestive,Lifestyle/Home,14,250000.0,250000.0,100.0,1,250000.0,18.0,0,0,0,0,0,1
+1223,LongTablePanCakes,Food and Beverage,14,14000.0,14000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1224,JicaFoods,Food and Beverage,14,300000.0,300000.0,100.0,1,300000.0,6.0,0,0,0,0,1,0
+1225,Kudos,Children/Education,14,250000.0,250000.0,100.0,1,250000.0,12.0,1,0,0,0,0,0
+1226,Vochill,Lifestyle/Home,14,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1227,Kinfield,Lifestyle/Home,14,250000.0,250000.0,100.0,1,250000.0,10.0,0,0,0,0,1,0
+1228,MetricMate,Health/Wellness,14,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1229,WildWonder,Food and Beverage,14,500000.0,500000.0,100.0,1,500000.0,6.0,0,0,0,0,0,0
+1230,CabinetHealth,Health/Wellness,14,500000.0,500000.0,100.0,1,500000.0,7.0,0,0,1,0,0,0
+1231,Nutr,Lifestyle/Home,14,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1232,Frescos,Food and Beverage,14,130000.0,130000.0,100.0,1,130000.0,25.0,0,0,0,0,0,0
+1233,BrassRoots,Food and Beverage,14,400000.0,400000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1234,Nopalera,Health/Wellness,14,300000.0,300000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1235,FryAway,Lifestyle/Home,14,250000.0,250000.0,100.0,1,250000.0,22.0,1,1,0,0,0,0
+1236,Anytongs,Lifestyle/Home,14,150000.0,150000.0,100.0,1,150000.0,49.0,0,0,0,1,0,0
+1237,CopyKeyboard,Software/Tech,14,40000.0,40000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1238,SlickBarrier,Lifestyle/Home,14,500000.0,500000.0,100.0,1,500000.0,15.0,0,1,0,0,0,0
+1239,Kahawa1893,Food and Beverage,14,350000.0,350000.0,100.0,1,350000.0,8.0,0,0,0,0,0,0
+1240,FunkkOFF,Health/Wellness,14,250000.0,250000.0,100.0,1,250000.0,12.0,0,0,0,0,0,1
+1241,Retold,Fashion/Beauty,14,300000.0,300000.0,100.0,1,300000.0,25.0,1,0,0,0,0,0
+1242,TheChubRubPatch,Health/Wellness,14,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1243,SurfBandPro,Fashion/Beauty,14,150000.0,150000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1244,BigMouthToothbrush,Health/Wellness,14,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,0,1,0
+1245,YouthForia,Fashion/Beauty,14,400000.0,400000.0,100.0,1,400000.0,8.0,1,0,0,0,0,0
+1246,EatYourFlowers,Lifestyle/Home,14,250000.0,250000.0,100.0,1,250000.0,15.0,0,0,0,0,1,0
+1247,Woof,Pet Products,14,100000.0,100000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1248,Sweetkiwi,Food and Beverage,14,250000.0,250000.0,100.0,1,250000.0,16.0,0,0,0,0,0,1
+1249,Pluie,Children/Education,14,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1250,Flated,Automotive,14,350000.0,350000.0,100.0,1,350000.0,8.0,0,0,0,1,0,0
+1251,CrispyCones,Food and Beverage,14,200000.0,200000.0,100.0,1,200000.0,20.0,0,0,0,0,1,0
+1252,ChubbyButtons,Software/Tech,14,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1253,TngntSkiBikes,Automotive,14,200000.0,200000.0,100.0,1,200000.0,40.0,0,0,0,0,0,1
+1254,Autio,Software/Tech,14,1000000.0,1000000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1255,HappiFloss,Uncertain/Other,14,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1256,Lavabox,Lifestyle/Home,14,200000.0,200000.0,100.0,1,200000.0,12.5,0,1,0,0,0,0
+1257,Bleni,Food and Beverage,14,250000.0,250000.0,100.0,1,750000.0,35.0,0,1,0,0,0,0
+1258,TheIceCreamCanteen,Food and Beverage,14,100000.0,100000.0,100.0,1,100000.0,20.0,1,1,0,0,0,0
+1259,PartingStone,Uncertain/Other,14,400000.0,400000.0,100.0,1,400000.0,10.0,0,1,1,0,0,0
+1260,Milkify,Children/Education,14,400000.0,400000.0,100.0,1,400000.0,20.0,0,1,0,0,0,0
+1261,Cincha,Lifestyle/Home,14,200000.0,200000.0,100.0,1,100000.0,25.0,0,0,0,0,1,0
+1262,Burlap&Barrel,Food and Beverage,14,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1263,Honey Bunchies,Food and Beverage,14,200000.0,200000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1264,Play Maysie,Children/Education,14,150000.0,150000.0,100.0,1,150000.0,20.0,0,0,0,0,1,0
+1265,Tia Lupita,Food and Beverage,14,500000.0,500000.0,100.0,1,500000.0,5.0,0,0,1,0,0,0
+1266,Dapper Boi,Fashion/Beauty,14,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1267,NaturesWildBerry,Food and Beverage,14,80000.0,80000.0,100.0,1,80000.0,20.0,1,1,0,0,0,0
+1268,YouGoNatural,Fashion/Beauty,14,400000.0,400000.0,100.0,1,400000.0,10.0,1,0,0,0,0,0
+1269,SeeTheWayISee,Fashion/Beauty,14,250000.0,250000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1270,NoshiFood,Food and Beverage,14,250000.0,250000.0,100.0,1,250000.0,25.0,1,0,0,0,0,0
+1271,Tucky,Fashion/Beauty,14,70000.0,70000.0,100.0,1,70000.0,39.0,0,0,0,1,0,0
+1272,InfluencersInTheWild,Lifestyle/Home,14,500000.0,500000.0,100.0,0,0.0,0.0,0,0,0,0,0,0
+1273,Eyewris,Lifestyle/Home,14,25000.0,25000.0,100.0,1,125000.0,20.0,1,1,1,1,1,0
+1274,TonesOfMelanin,Fashion/Beauty,14,300000.0,300000.0,100.0,1,300000.0,12.0,1,0,0,0,0,0
